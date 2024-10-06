@@ -1,0 +1,769 @@
+﻿Age Group,Blood Pressure Risk,BMI Group,Diabetic Risk,Glucose Risk,Age,BMI,Diabetes Pedigree Function,Diabetic Percentage,Diastolic Blood Pressure,Glucose,Insulin,Outcome,Pregnancies,Skin Thickness
+21 - 29,Normal,Overweight,Low Risk,Normal,21,28.1,0.167,0.00%,66,89,94,Non-Diabetic,1,23
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,21,23,0.248,0.00%,50,73,0,Non-Diabetic,1,10
+21 - 29,Normal,Unknown,Moderate Risk,Normal,21,0,0.304,0.00%,0,84,0,Non-Diabetic,2,0
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,21,19.1,0.258,0.00%,55,80,0,Non-Diabetic,1,0
+21 - 29,Prehypertension,Normal Weight,High Risk,Diabetes,21,24.7,0.761,0.00%,82,142,64,Non-Diabetic,2,18
+21 - 29,Hypertension Stage 1,Normal Weight,Moderate Risk,Prediabetes,21,22.5,0.262,0.00%,96,125,0,Non-Diabetic,0,0
+21 - 29,Normal,Overweight,Extreme Risk,Diabetes,21,28.7,0.801,0.00%,56,126,152,Non-Diabetic,1,29
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,21,23.2,0.223,0.00%,76,99,51,Non-Diabetic,4,15
+21 - 29,Normal,Obesity Class I,High Risk,Prediabetes,21,30.8,0.597,0.00%,70,100,50,Non-Diabetic,0,26
+21 - 29,Normal,Unknown,High Risk,Prediabetes,21,0,0.572,0.00%,75,102,0,Non-Diabetic,0,23
+21 - 29,Normal,Normal Weight,High Risk,Normal,21,24.6,0.637,0.00%,52,99,94,Non-Diabetic,2,15
+21 - 29,Normal,Overweight,Moderate Risk,Prediabetes,21,29.7,0.368,0.00%,64,100,0,Non-Diabetic,2,23
+21 - 29,Normal,Overweight,Moderate Risk,Hypoglycemia,21,27.7,0.299,0.00%,74,0,23,Non-Diabetic,1,20
+21 - 29,Normal,Normal Weight,Low Risk,Prediabetes,21,22.6,0.142,0.00%,62,111,0,Non-Diabetic,3,0
+21 - 29,Normal,Normal Weight,Low Risk,Prediabetes,21,24.3,0.187,0.00%,58,105,0,Non-Diabetic,1,0
+21 - 29,Prehypertension,Obesity Class I,Extreme Risk,Prediabetes,21,31,0.874,0.00%,80,113,0,Non-Diabetic,0,16
+21 - 29,Normal,Obesity Class I,Moderate Risk,Normal,21,33.2,0.289,0.00%,64,96,87,Non-Diabetic,1,27
+21 - 29,Normal,Obesity Class I,Extreme Risk,Diabetes,21,34.6,1.072,100.00%,60,177,478,Diabetic,0,29
+21 - 29,Normal,Overweight,Low Risk,Normal,21,29.2,0.192,0.00%,64,91,0,Non-Diabetic,1,24
+21 - 29,Normal,Obesity Class I,High Risk,Prediabetes,21,33.6,0.543,100.00%,64,113,0,Diabetic,1,35
+21 - 29,Normal,Overweight,Low Risk,Prediabetes,21,25.1,0.078,0.00%,52,102,0,Non-Diabetic,0,0
+21 - 29,Normal,Overweight,Low Risk,Prediabetes,21,25.2,0.128,0.00%,62,108,56,Non-Diabetic,2,32
+21 - 29,Normal,Obesity Class I,Moderate Risk,Normal,21,33.2,0.422,0.00%,78,71,45,Non-Diabetic,1,50
+21 - 29,Prehypertension,Obesity Class II,Moderate Risk,Normal,21,36.9,0.434,0.00%,88,78,40,Non-Diabetic,0,29
+21 - 29,Normal,Normal Weight,Low Risk,Diabetes,21,24.8,0.143,0.00%,68,137,148,Non-Diabetic,0,14
+21 - 29,Normal,Obesity Class II,Low Risk,Prediabetes,21,35.7,0.148,0.00%,75,112,0,Non-Diabetic,2,32
+21 - 29,Normal,Obesity Class III,High Risk,Normal,21,42.7,0.559,0.00%,78,90,0,Non-Diabetic,3,0
+21 - 29,Normal,Normal Weight,Moderate Risk,Prediabetes,21,21,0.252,0.00%,64,101,0,Non-Diabetic,0,17
+21 - 29,Normal,Unknown,Extreme Risk,Prediabetes,21,0,1.731,0.00%,64,118,89,Non-Diabetic,0,23
+21 - 29,Normal,Obesity Class II,High Risk,Normal,21,35.8,0.545,0.00%,64,84,66,Non-Diabetic,0,22
+21 - 29,Normal,Overweight,Extreme Risk,Prediabetes,21,25.4,0.947,0.00%,60,109,182,Non-Diabetic,1,8
+21 - 29,Normal,Normal Weight,Moderate Risk,Diabetes,21,23.7,0.389,0.00%,64,131,415,Non-Diabetic,1,14
+21 - 29,Normal,Overweight,Moderate Risk,Diabetes,21,26.2,0.256,0.00%,74,143,61,Non-Diabetic,1,22
+21 - 29,Normal,Obesity Class I,High Risk,Diabetes,21,34.6,0.534,100.00%,60,138,167,Diabetic,0,35
+21 - 29,Normal,Overweight,High Risk,Normal,21,26,0.561,0.00%,68,94,76,Non-Diabetic,2,18
+21 - 29,Normal,Obesity Class III,Moderate Risk,Prediabetes,21,40.6,0.496,0.00%,64,102,78,Non-Diabetic,0,46
+21 - 29,Normal,Obesity Class I,Moderate Risk,Prediabetes,21,30.8,0.421,0.00%,64,115,0,Non-Diabetic,2,22
+21 - 29,Normal,Underweight,Low Risk,Normal,21,18.2,0.147,0.00%,70,97,0,Non-Diabetic,1,15
+21 - 29,Normal,Normal Weight,Moderate Risk,Prediabetes,21,21.8,0.452,0.00%,56,124,105,Non-Diabetic,0,13
+21 - 29,Normal,Obesity Class III,High Risk,Diabetes,21,40.7,0.536,0.00%,62,139,480,Non-Diabetic,1,41
+21 - 29,Hypertension Stage 1,Overweight,Moderate Risk,Prediabetes,21,25.2,0.313,0.00%,90,117,71,Non-Diabetic,2,19
+21 - 29,Normal,Overweight,High Risk,Diabetes,21,28.6,0.692,0.00%,60,130,170,Non-Diabetic,1,23
+21 - 29,Normal,Obesity Class I,Extreme Risk,Normal,21,30.4,0.968,0.00%,50,84,76,Non-Diabetic,2,23
+21 - 29,Normal,Normal Weight,Moderate Risk,Diabetes,21,22.1,0.207,0.00%,62,139,210,Non-Diabetic,0,17
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,21,21.8,0.444,0.00%,60,87,0,Non-Diabetic,3,18
+21 - 29,Normal,Underweight,Moderate Risk,Normal,21,18.2,0.299,0.00%,64,97,82,Non-Diabetic,1,19
+21 - 29,Normal,Overweight,Moderate Risk,Prediabetes,21,27.4,0.204,0.00%,70,116,0,Non-Diabetic,1,28
+21 - 29,Normal,Obesity Class II,Moderate Risk,Normal,21,38.6,0.412,0.00%,72,99,18,Non-Diabetic,1,30
+21 - 29,Hypertension Stage 1,Normal Weight,Moderate Risk,Diabetes,21,22.6,0.268,0.00%,96,130,0,Non-Diabetic,2,0
+21 - 29,Prehypertension,Obesity Class III,High Risk,Prediabetes,21,42.9,0.693,100.00%,80,118,0,Diabetic,2,0
+21 - 29,Hypertension Stage 1,Obesity Class III,Moderate Risk,Diabetes,21,42.1,0.371,100.00%,90,151,0,Diabetic,0,46
+21 - 29,Normal,Overweight,High Risk,Normal,21,27.8,0.559,0.00%,24,89,25,Non-Diabetic,1,19
+21 - 29,Normal,Obesity Class II,High Risk,Prediabetes,21,35.8,0.514,0.00%,60,124,0,Non-Diabetic,1,32
+21 - 29,Normal,Obesity Class III,Moderate Risk,Normal,21,43.5,0.347,0.00%,70,94,115,Non-Diabetic,0,27
+21 - 29,Normal,Obesity Class I,Low Risk,Prediabetes,21,30.8,0.158,0.00%,64,108,0,Non-Diabetic,2,0
+21 - 29,Normal,Normal Weight,Moderate Risk,Prediabetes,21,24.7,0.206,0.00%,68,125,0,Non-Diabetic,0,0
+21 - 29,Normal,Obesity Class I,Moderate Risk,Diabetes,21,32.4,0.393,0.00%,78,132,0,Non-Diabetic,0,0
+21 - 29,Normal,Normal Weight,Low Risk,Normal,21,24.7,0.148,0.00%,65,94,0,Non-Diabetic,4,22
+21 - 29,Normal,Overweight,High Risk,Normal,21,25.4,0.551,0.00%,58,99,0,Non-Diabetic,1,10
+21 - 29,Normal,Overweight,Moderate Risk,Diabetes,21,26.4,0.352,0.00%,58,134,291,Non-Diabetic,0,20
+21 - 29,Normal,Obesity Class II,Moderate Risk,Prediabetes,21,38.1,0.289,0.00%,66,114,200,Non-Diabetic,1,36
+21 - 29,Prehypertension,Overweight,High Risk,Diabetes,21,27.4,0.515,0.00%,86,126,120,Non-Diabetic,0,27
+21 - 29,Normal,Obesity Class II,Moderate Risk,Normal,21,36.6,0.453,0.00%,60,99,160,Non-Diabetic,2,17
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,22,23.2,0.487,0.00%,66,97,140,Non-Diabetic,1,15
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,22,24.8,0.267,0.00%,58,88,54,Non-Diabetic,3,11
+21 - 29,Normal,Overweight,High Risk,Normal,22,28,0.586,0.00%,70,71,0,Non-Diabetic,2,27
+21 - 29,Prehypertension,Normal Weight,Moderate Risk,Prediabetes,22,19.4,0.491,0.00%,80,103,82,Non-Diabetic,1,11
+21 - 29,Normal,Obesity Class III,Low Risk,Prediabetes,22,41.5,0.173,0.00%,64,105,142,Non-Diabetic,0,41
+21 - 29,Normal,Obesity Class I,Moderate Risk,Normal,22,32,0.396,0.00%,75,79,0,Non-Diabetic,1,30
+21 - 29,Normal,Normal Weight,Low Risk,Hypoglycemia,22,24.7,0.14,0.00%,48,0,0,Non-Diabetic,1,20
+21 - 29,Normal,Normal Weight,Low Risk,Prediabetes,22,22.4,0.14,0.00%,44,113,0,Non-Diabetic,3,13
+21 - 29,Normal,Unknown,Low Risk,Normal,22,0,0.102,0.00%,0,74,0,Non-Diabetic,2,0
+21 - 29,Normal,Normal Weight,Moderate Risk,Prediabetes,22,24.6,0.237,0.00%,65,101,0,Non-Diabetic,0,28
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,22,20.4,0.323,0.00%,48,71,76,Non-Diabetic,1,18
+21 - 29,Normal,Overweight,Low Risk,Diabetes,22,26.1,0.179,0.00%,60,151,0,Non-Diabetic,1,0
+21 - 29,Normal,Overweight,Moderate Risk,Normal,22,28.2,0.443,0.00%,60,97,0,Non-Diabetic,4,23
+21 - 29,Normal,Overweight,High Risk,Normal,22,28.7,0.532,0.00%,60,93,92,Non-Diabetic,0,25
+21 - 29,Normal,Obesity Class I,Moderate Risk,Prediabetes,22,32.5,0.318,0.00%,52,108,63,Non-Diabetic,2,26
+21 - 29,Normal,Overweight,Low Risk,Normal,22,27.3,0.085,0.00%,70,90,0,Non-Diabetic,2,17
+21 - 29,Normal,Overweight,Moderate Risk,Normal,22,29,0.229,0.00%,74,88,53,Non-Diabetic,2,19
+21 - 29,Normal,Obesity Class I,Moderate Risk,Diabetes,22,32.5,0.256,0.00%,66,148,0,Non-Diabetic,3,25
+21 - 29,Normal,Obesity Class I,Low Risk,Normal,22,34.6,0.101,0.00%,78,87,32,Non-Diabetic,1,27
+21 - 29,Prehypertension,Obesity Class III,High Risk,Diabetes,22,44,0.645,100.00%,86,142,0,Diabetic,4,0
+21 - 29,Prehypertension,Overweight,High Risk,Normal,22,25.4,0.583,0.00%,80,79,37,Non-Diabetic,1,25
+21 - 29,Normal,Obesity Class I,Moderate Risk,Normal,22,33.1,0.446,0.00%,70,91,88,Non-Diabetic,4,32
+21 - 29,Normal,Overweight,Moderate Risk,Diabetes,22,25.6,0.402,100.00%,54,139,0,Diabetic,3,0
+21 - 29,Normal,Overweight,Extreme Risk,Prediabetes,22,25.3,0.881,0.00%,62,108,278,Non-Diabetic,2,10
+21 - 29,Normal,Obesity Class II,High Risk,Prediabetes,22,39.4,0.605,0.00%,70,106,148,Non-Diabetic,0,37
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,22,23.9,0.26,0.00%,60,95,58,Non-Diabetic,1,18
+21 - 29,Normal,Overweight,Moderate Risk,Diabetes,22,25.9,0.472,0.00%,70,130,105,Non-Diabetic,1,13
+21 - 29,Normal,Obesity Class I,Moderate Risk,Hypoglycemia,22,32,0.389,0.00%,68,0,0,Non-Diabetic,1,35
+21 - 29,Normal,Overweight,High Risk,Diabetes,22,28.7,0.654,0.00%,46,139,83,Non-Diabetic,1,19
+21 - 29,Prehypertension,Overweight,Moderate Risk,Normal,22,27.5,0.306,0.00%,86,81,66,Non-Diabetic,3,16
+21 - 29,Prehypertension,Overweight,Moderate Risk,Normal,22,25.2,0.299,0.00%,82,98,84,Non-Diabetic,0,15
+21 - 29,Normal,Obesity Class II,High Risk,Normal,22,37.2,0.509,0.00%,60,87,75,Non-Diabetic,1,37
+21 - 29,Normal,Normal Weight,Moderate Risk,Prediabetes,22,20,0.236,0.00%,68,105,0,Non-Diabetic,0,22
+21 - 29,Normal,Obesity Class I,Low Risk,Diabetes,22,34.3,0.196,100.00%,66,131,0,Diabetic,0,40
+21 - 29,Prehypertension,Obesity Class III,Extreme Risk,Diabetes,22,42.4,1.076,0.00%,84,143,310,Non-Diabetic,1,23
+21 - 29,Prehypertension,Obesity Class II,Moderate Risk,Diabetes,22,35.7,0.258,100.00%,84,173,474,Diabetic,3,33
+21 - 29,Normal,Overweight,Extreme Risk,Normal,22,27.2,1.095,0.00%,68,97,0,Non-Diabetic,1,21
+21 - 29,Normal,Obesity Class I,High Risk,Normal,22,30,0.527,0.00%,74,80,60,Non-Diabetic,1,11
+21 - 29,Normal,Obesity Class I,Moderate Risk,Normal,22,32.2,0.497,0.00%,66,83,50,Non-Diabetic,2,23
+21 - 29,Normal,Obesity Class I,High Risk,Prediabetes,22,33.6,0.51,100.00%,64,104,64,Diabetic,0,37
+21 - 29,Normal,Overweight,Moderate Risk,Normal,22,27.8,0.269,0.00%,52,74,36,Non-Diabetic,0,10
+21 - 29,Normal,Obesity Class I,Low Risk,Diabetes,22,33.2,0.17,0.00%,70,137,0,Non-Diabetic,0,38
+21 - 29,Normal,Obesity Class II,Moderate Risk,Prediabetes,22,38.8,0.259,0.00%,66,119,0,Non-Diabetic,0,27
+21 - 29,Normal,Unknown,Low Risk,Normal,22,0,0.174,0.00%,0,80,0,Non-Diabetic,3,0
+21 - 29,Normal,Overweight,High Risk,Normal,22,27.3,0.525,0.00%,62,91,0,Non-Diabetic,2,0
+21 - 29,Normal,Obesity Class I,Moderate Risk,Prediabetes,22,30.8,0.493,0.00%,66,117,188,Non-Diabetic,0,31
+21 - 29,Normal,Overweight,High Risk,Prediabetes,22,29.8,0.717,0.00%,60,122,106,Non-Diabetic,2,18
+21 - 29,Normal,Overweight,High Risk,Normal,22,26.1,0.748,0.00%,54,95,88,Non-Diabetic,2,14
+21 - 29,Normal,Overweight,Moderate Risk,Prediabetes,22,29.5,0.43,0.00%,58,111,44,Non-Diabetic,3,31
+21 - 29,Normal,Obesity Class I,Low Risk,Normal,22,34.7,0.198,0.00%,60,98,120,Non-Diabetic,2,17
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,22,22.5,0.417,0.00%,56,93,0,Non-Diabetic,1,11
+21 - 29,Prehypertension,Obesity Class I,High Risk,Diabetes,22,32,0.682,100.00%,82,188,185,Diabetic,0,14
+21 - 29,Normal,Obesity Class III,Extreme Risk,Diabetes,22,40,1.258,100.00%,78,181,293,Diabetic,1,42
+21 - 29,Prehypertension,Overweight,Low Risk,Diabetes,22,27.5,0.115,0.00%,82,128,183,Non-Diabetic,1,17
+21 - 29,Normal,Obesity Class II,Moderate Risk,Diabetes,22,37.8,0.455,100.00%,50,179,159,Diabetic,0,36
+21 - 29,Normal,Obesity Class I,Low Risk,Prediabetes,22,34.2,0.142,0.00%,70,106,135,Non-Diabetic,1,28
+21 - 29,Normal,Normal Weight,Low Risk,Prediabetes,22,21.8,0.155,0.00%,58,101,90,Non-Diabetic,2,35
+21 - 29,Normal,Obesity Class III,Extreme Risk,Diabetes,22,42.9,1.394,100.00%,76,199,0,Diabetic,1,43
+21 - 29,Hypertension Stage 2,Obesity Class III,Extreme Risk,Prediabetes,22,57.3,0.88,0.00%,100,123,240,Non-Diabetic,3,35
+21 - 29,Normal,Normal Weight,Moderate Risk,Hypoglycemia,22,24.2,0.332,0.00%,56,56,45,Non-Diabetic,2,28
+21 - 29,Normal,Obesity Class III,Moderate Risk,Normal,22,44.6,0.366,0.00%,64,95,105,Non-Diabetic,0,39
+21 - 29,Normal,Normal Weight,Moderate Risk,Diabetes,22,23.1,0.314,0.00%,64,130,0,Non-Diabetic,3,0
+21 - 29,Normal,Overweight,Moderate Risk,Normal,22,25,0.253,0.00%,0,99,0,Non-Diabetic,0,0
+21 - 29,Normal,Obesity Class I,Low Risk,Diabetes,22,34.4,0.176,0.00%,46,127,335,Non-Diabetic,2,21
+21 - 29,Prehypertension,Obesity Class I,Moderate Risk,Diabetes,22,32.4,0.433,0.00%,84,141,0,Non-Diabetic,0,26
+21 - 29,Prehypertension,Normal Weight,Moderate Risk,Diabetes,22,22.9,0.326,0.00%,88,175,0,Non-Diabetic,2,0
+21 - 29,Normal,Obesity Class I,Low Risk,Normal,22,30.1,0.141,0.00%,52,92,0,Non-Diabetic,2,0
+21 - 29,Prehypertension,Overweight,Moderate Risk,Prediabetes,22,28.4,0.259,100.00%,86,120,0,Diabetic,8,0
+21 - 29,Normal,Overweight,Moderate Risk,Prediabetes,22,29,0.426,0.00%,56,106,165,Non-Diabetic,2,27
+21 - 29,Normal,Overweight,Moderate Risk,Prediabetes,22,28.5,0.219,0.00%,58,109,116,Non-Diabetic,1,18
+21 - 29,Normal,Obesity Class I,Extreme Risk,Diabetes,22,31.2,1.182,100.00%,70,136,0,Diabetic,4,0
+21 - 29,Normal,Overweight,High Risk,Normal,22,28.4,0.766,0.00%,58,88,16,Non-Diabetic,2,26
+21 - 29,Prehypertension,Obesity Class II,Moderate Risk,Diabetes,23,35.1,0.231,0.00%,86,129,270,Non-Diabetic,4,20
+21 - 29,Normal,Overweight,Moderate Risk,Normal,23,28.7,0.356,0.00%,50,93,64,Non-Diabetic,6,30
+21 - 29,Normal,Obesity Class I,Low Risk,Normal,23,31.2,0.192,0.00%,76,89,37,Non-Diabetic,1,34
+21 - 29,Normal,Obesity Class I,Moderate Risk,Prediabetes,23,33.6,0.404,0.00%,74,107,100,Non-Diabetic,2,30
+21 - 29,Normal,Obesity Class I,Moderate Risk,Prediabetes,23,33.3,0.278,100.00%,76,113,0,Diabetic,0,0
+21 - 29,Normal,Obesity Class I,Moderate Risk,Prediabetes,23,33.3,0.261,0.00%,58,118,94,Non-Diabetic,1,36
+21 - 29,Normal,Obesity Class I,Moderate Risk,Diabetes,23,32.8,0.237,0.00%,62,154,284,Non-Diabetic,4,31
+21 - 29,Prehypertension,Obesity Class III,High Risk,Diabetes,23,40.6,0.687,0.00%,82,153,485,Non-Diabetic,1,42
+21 - 29,Normal,Overweight,Extreme Risk,Prediabetes,23,25.2,0.833,0.00%,56,109,135,Non-Diabetic,1,21
+21 - 29,Normal,Obesity Class III,High Risk,Normal,23,43.5,0.678,0.00%,60,79,48,Non-Diabetic,1,42
+21 - 29,Normal,Obesity Class I,High Risk,Prediabetes,23,34.9,0.725,0.00%,64,119,92,Non-Diabetic,0,18
+21 - 29,Normal,Normal Weight,High Risk,Prediabetes,23,22.9,0.678,100.00%,62,107,48,Diabetic,3,13
+21 - 29,Normal,Overweight,Moderate Risk,Normal,23,29.7,0.293,0.00%,68,74,45,Non-Diabetic,3,28
+21 - 29,Hypertension Stage 1,Obesity Class III,High Risk,Diabetes,23,44.1,0.686,100.00%,90,179,0,Diabetic,0,27
+21 - 29,Hypertension Stage 1,Obesity Class III,Moderate Risk,Diabetes,23,52.3,0.427,0.00%,90,165,680,Non-Diabetic,0,33
+21 - 29,Prehypertension,Obesity Class I,Low Risk,Prediabetes,23,30.1,0.143,0.00%,86,111,0,Non-Diabetic,1,19
+21 - 29,Normal,Overweight,Moderate Risk,Prediabetes,23,27.8,0.454,0.00%,64,104,116,Non-Diabetic,0,23
+21 - 29,Prehypertension,Obesity Class III,Low Risk,Prediabetes,23,45.5,0.127,100.00%,86,102,120,Diabetic,2,36
+21 - 29,Normal,Normal Weight,Low Risk,Prediabetes,23,23.5,0.187,0.00%,0,116,0,Non-Diabetic,3,0
+21 - 29,Normal,Normal Weight,Low Risk,Normal,23,22.2,0.108,0.00%,0,99,0,Non-Diabetic,2,0
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,23,21.2,0.415,0.00%,64,82,95,Non-Diabetic,1,13
+21 - 29,Normal,Overweight,High Risk,Diabetes,23,28.9,0.542,100.00%,70,134,0,Diabetic,2,0
+21 - 29,Prehypertension,Obesity Class II,Moderate Risk,Normal,23,38.2,0.233,0.00%,82,84,125,Non-Diabetic,0,31
+21 - 29,Normal,Obesity Class I,Moderate Risk,Diabetes,23,32.9,0.302,100.00%,0,132,0,Diabetic,4,0
+21 - 29,Prehypertension,Obesity Class II,Extreme Risk,Diabetes,23,36.3,0.804,0.00%,80,127,210,Non-Diabetic,0,37
+21 - 29,Normal,Overweight,Moderate Risk,Normal,23,29.9,0.422,0.00%,62,88,44,Non-Diabetic,1,24
+21 - 29,Prehypertension,Obesity Class I,Extreme Risk,Diabetes,23,30.1,0.892,0.00%,86,143,330,Non-Diabetic,1,30
+21 - 29,Normal,Normal Weight,Low Risk,Prediabetes,23,24,0.138,0.00%,62,111,182,Non-Diabetic,1,13
+21 - 29,Normal,Normal Weight,Moderate Risk,Hypoglycemia,23,20.1,0.257,0.00%,62,68,15,Non-Diabetic,2,13
+21 - 29,Normal,Overweight,Moderate Risk,Prediabetes,23,26.2,0.343,0.00%,60,111,0,Non-Diabetic,2,0
+21 - 29,Normal,Obesity Class I,High Risk,Normal,23,31.6,0.649,0.00%,76,94,66,Non-Diabetic,2,18
+21 - 29,Normal,Overweight,Low Risk,Prediabetes,23,26.4,0.133,0.00%,60,107,0,Non-Diabetic,0,25
+21 - 29,Normal,Overweight,Moderate Risk,Normal,23,25.2,0.234,0.00%,54,91,100,Non-Diabetic,1,25
+21 - 29,Normal,Normal Weight,High Risk,Prediabetes,23,24.2,0.614,0.00%,58,101,265,Non-Diabetic,2,17
+21 - 29,Normal,Normal Weight,Extreme Risk,Diabetes,23,24.1,0.828,0.00%,74,140,180,Non-Diabetic,1,26
+21 - 29,Normal,Obesity Class II,Extreme Risk,Prediabetes,23,39.1,0.886,0.00%,70,121,95,Non-Diabetic,2,32
+21 - 29,Normal,Obesity Class II,High Risk,Normal,23,38,0.674,100.00%,64,93,160,Diabetic,2,32
+21 - 29,Normal,Obesity Class I,Moderate Risk,Normal,23,30.4,0.315,0.00%,70,93,0,Non-Diabetic,1,31
+21 - 29,Normal,Unknown,Moderate Risk,Prediabetes,24,0,0.305,0.00%,0,105,0,Non-Diabetic,7,0
+21 - 29,Normal,Overweight,High Risk,Diabetes,24,25.4,0.699,0.00%,58,141,128,Non-Diabetic,2,34
+21 - 29,Normal,Overweight,Moderate Risk,Prediabetes,24,25,0.307,0.00%,66,112,0,Non-Diabetic,2,22
+21 - 29,Normal,Overweight,Low Risk,Prediabetes,24,26.5,0.165,0.00%,68,107,0,Non-Diabetic,1,19
+21 - 29,Normal,Obesity Class I,Low Risk,Normal,24,31.6,0.13,0.00%,62,92,0,Non-Diabetic,2,28
+21 - 29,Normal,Overweight,Moderate Risk,Normal,24,26.6,0.283,0.00%,72,81,40,Non-Diabetic,1,18
+21 - 29,Prehypertension,Obesity Class II,Moderate Risk,Normal,24,37.4,0.247,100.00%,85,95,36,Diabetic,0,25
+21 - 29,Normal,Obesity Class I,Low Risk,Diabetes,24,33.3,0.199,100.00%,72,171,135,Diabetic,3,33
+21 - 29,Normal,Obesity Class I,Moderate Risk,Prediabetes,24,34.2,0.26,0.00%,64,111,0,Non-Diabetic,6,39
+21 - 29,Normal,Obesity Class II,Moderate Risk,Diabetes,24,37.4,0.399,0.00%,74,136,204,Non-Diabetic,1,50
+21 - 29,Prehypertension,Obesity Class III,Moderate Risk,Diabetes,24,42.8,0.375,0.00%,85,147,0,Non-Diabetic,0,54
+21 - 29,Normal,Obesity Class III,Moderate Risk,Diabetes,24,42.6,0.431,100.00%,65,140,130,Diabetic,0,26
+21 - 29,Normal,Obesity Class II,High Risk,Diabetes,24,37.2,0.652,100.00%,52,162,0,Diabetic,3,38
+21 - 29,Prehypertension,Obesity Class III,Low Risk,Prediabetes,24,45.2,0.089,0.00%,80,117,53,Non-Diabetic,0,31
+21 - 29,Prehypertension,Normal Weight,Moderate Risk,Normal,24,24.4,0.249,0.00%,80,90,55,Non-Diabetic,2,14
+21 - 29,Normal,Overweight,High Risk,Diabetes,24,25.9,0.655,0.00%,50,193,375,Non-Diabetic,1,16
+21 - 29,Normal,Obesity Class I,High Risk,Normal,24,32.1,0.612,0.00%,70,95,0,Non-Diabetic,4,32
+21 - 29,Normal,Obesity Class III,Extreme Risk,Diabetes,24,40,1.101,0.00%,64,128,0,Non-Diabetic,2,42
+21 - 29,Normal,Obesity Class III,High Risk,Diabetes,24,40.5,0.613,100.00%,48,128,194,Diabetic,1,45
+21 - 29,Prehypertension,Obesity Class I,High Risk,Diabetes,24,30.7,0.52,0.00%,84,126,215,Non-Diabetic,0,29
+21 - 29,Normal,Overweight,Low Risk,Diabetes,24,25.6,0.123,0.00%,72,157,168,Non-Diabetic,1,21
+21 - 29,Normal,Overweight,High Risk,Normal,24,27.2,0.58,0.00%,62,90,43,Non-Diabetic,1,12
+21 - 29,Normal,Obesity Class I,Extreme Risk,Prediabetes,24,30.8,0.821,0.00%,72,107,82,Non-Diabetic,1,30
+21 - 29,Normal,Normal Weight,Moderate Risk,Prediabetes,24,22.3,0.205,0.00%,54,119,50,Non-Diabetic,1,13
+21 - 29,Normal,Obesity Class I,Moderate Risk,Prediabetes,24,33.2,0.23,0.00%,64,117,120,Non-Diabetic,4,27
+21 - 29,Normal,Obesity Class II,Moderate Risk,Prediabetes,24,37.8,0.498,0.00%,54,100,105,Non-Diabetic,2,28
+21 - 29,Normal,Obesity Class I,Moderate Risk,Normal,24,30.2,0.364,0.00%,68,86,71,Non-Diabetic,5,28
+21 - 29,Normal,Overweight,Low Risk,Prediabetes,24,28.9,0.126,0.00%,64,114,0,Non-Diabetic,4,0
+21 - 29,Normal,Obesity Class III,Moderate Risk,Diabetes,24,42.3,0.365,100.00%,68,135,250,Diabetic,0,42
+21 - 29,Normal,Obesity Class II,High Risk,Normal,24,36.8,0.629,0.00%,65,83,66,Non-Diabetic,2,28
+21 - 29,Normal,Overweight,Low Risk,Normal,24,25.6,0.154,0.00%,54,99,86,Non-Diabetic,3,19
+21 - 29,Normal,Obesity Class I,Low Risk,Prediabetes,24,31.6,0.151,0.00%,58,125,0,Non-Diabetic,3,0
+21 - 29,Normal,Overweight,Low Risk,Prediabetes,24,26.3,0.107,0.00%,74,116,105,Non-Diabetic,3,15
+21 - 29,Normal,Obesity Class III,High Risk,Prediabetes,24,45.3,0.686,0.00%,76,107,0,Non-Diabetic,0,0
+21 - 29,Normal,Obesity Class I,Extreme Risk,Normal,24,33.3,1.251,0.00%,56,77,56,Non-Diabetic,1,30
+21 - 29,Normal,Obesity Class II,Moderate Risk,Normal,24,37.6,0.401,0.00%,68,87,77,Non-Diabetic,1,34
+21 - 29,Normal,Obesity Class II,Low Risk,Prediabetes,24,39.4,0.175,0.00%,78,112,140,Non-Diabetic,2,50
+21 - 29,Prehypertension,Overweight,Moderate Risk,Prediabetes,24,27.1,0.4,0.00%,88,108,0,Non-Diabetic,1,19
+21 - 29,Normal,Obesity Class I,Moderate Risk,Prediabetes,24,30.9,0.292,0.00%,54,106,158,Non-Diabetic,3,21
+21 - 29,Normal,Obesity Class I,Low Risk,Prediabetes,24,32.4,0.141,100.00%,0,119,0,Diabetic,0,0
+21 - 29,Normal,Obesity Class I,Moderate Risk,Prediabetes,24,34.5,0.238,0.00%,78,102,90,Non-Diabetic,0,40
+21 - 29,Normal,Obesity Class I,Moderate Risk,Diabetes,24,34.3,0.303,0.00%,70,128,0,Non-Diabetic,4,0
+21 - 29,Prehypertension,Obesity Class I,Moderate Risk,Prediabetes,24,34.8,0.217,0.00%,80,112,132,Non-Diabetic,1,45
+21 - 29,Normal,Obesity Class I,Moderate Risk,Diabetes,24,31.2,0.295,0.00%,64,158,387,Non-Diabetic,3,13
+21 - 29,Normal,Obesity Class II,Moderate Risk,Prediabetes,24,35.5,0.415,0.00%,60,108,178,Non-Diabetic,1,46
+21 - 29,Prehypertension,Obesity Class III,High Risk,Diabetes,24,44.5,0.646,100.00%,88,174,120,Diabetic,2,37
+21 - 29,Normal,Obesity Class III,Extreme Risk,Diabetes,25,42,1.893,100.00%,66,180,0,Diabetic,0,39
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,25,19.6,0.334,0.00%,66,95,38,Non-Diabetic,1,13
+21 - 29,Normal,Obesity Class I,Moderate Risk,Normal,25,34.3,0.336,0.00%,58,83,18,Non-Diabetic,3,31
+21 - 29,Normal,Obesity Class I,Moderate Risk,Normal,25,34,0.391,0.00%,62,76,0,Non-Diabetic,4,0
+21 - 29,Normal,Obesity Class I,High Risk,Normal,25,33.7,0.654,0.00%,48,78,0,Non-Diabetic,5,0
+21 - 29,Normal,Obesity Class III,High Risk,Diabetes,25,53.2,0.759,100.00%,76,162,100,Diabetic,0,56
+21 - 29,Normal,Overweight,High Risk,Normal,25,28.9,0.773,0.00%,0,87,0,Non-Diabetic,2,23
+21 - 29,Prehypertension,Obesity Class I,Moderate Risk,Diabetes,25,31.6,0.361,100.00%,80,139,160,Diabetic,5,35
+21 - 29,Normal,Overweight,Moderate Risk,Normal,25,27.7,0.29,0.00%,60,81,0,Non-Diabetic,2,22
+21 - 29,Normal,Obesity Class II,High Risk,Prediabetes,25,35.8,0.514,100.00%,62,109,129,Diabetic,5,41
+21 - 29,Normal,Obesity Class II,Moderate Risk,Normal,25,35.8,0.238,0.00%,68,86,0,Non-Diabetic,0,32
+21 - 29,Normal,Overweight,Low Risk,Prediabetes,25,28.7,0.092,0.00%,68,114,0,Non-Diabetic,2,22
+21 - 29,Normal,Obesity Class II,Extreme Risk,Diabetes,25,36.3,0.933,100.00%,0,138,0,Diabetic,0,0
+21 - 29,Normal,Obesity Class III,High Risk,Prediabetes,25,40.5,0.677,0.00%,70,100,57,Non-Diabetic,2,52
+21 - 29,Normal,Obesity Class II,High Risk,Prediabetes,25,36.6,0.757,100.00%,62,107,74,Diabetic,0,30
+21 - 29,Normal,Obesity Class I,Moderate Risk,Diabetes,25,31.6,0.422,100.00%,58,144,135,Diabetic,2,33
+21 - 29,Normal,Obesity Class I,Extreme Risk,Diabetes,25,30.5,1.391,100.00%,68,128,180,Diabetic,0,19
+21 - 29,Normal,Overweight,High Risk,Prediabetes,25,29.5,0.626,0.00%,50,113,85,Non-Diabetic,3,10
+21 - 29,Normal,Obesity Class I,Low Risk,Prediabetes,25,31.6,0.197,100.00%,74,112,0,Diabetic,3,30
+21 - 29,Normal,Obesity Class I,Low Risk,Normal,25,32.7,0.166,0.00%,58,87,52,Non-Diabetic,2,16
+21 - 29,Prehypertension,Obesity Class II,Extreme Risk,Diabetes,25,38.4,2.137,100.00%,82,173,465,Diabetic,3,48
+21 - 29,Normal,Obesity Class I,Moderate Risk,Prediabetes,25,34.9,0.225,0.00%,58,105,94,Non-Diabetic,2,40
+21 - 29,Normal,Overweight,Extreme Risk,Normal,25,25.1,1.268,0.00%,62,90,59,Non-Diabetic,1,18
+21 - 29,Normal,Normal Weight,Moderate Risk,Prediabetes,25,24.3,0.221,0.00%,70,125,110,Non-Diabetic,1,24
+21 - 29,Normal,Overweight,Extreme Risk,Diabetes,25,27.7,1.6,0.00%,58,127,275,Non-Diabetic,2,24
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,25,21.1,0.389,0.00%,70,82,0,Non-Diabetic,3,0
+21 - 29,Normal,Obesity Class I,Moderate Risk,Diabetes,25,34.9,0.241,100.00%,70,193,0,Diabetic,3,31
+21 - 29,Normal,Normal Weight,Moderate Risk,Prediabetes,25,21.9,0.336,0.00%,62,101,0,Non-Diabetic,0,0
+21 - 29,Normal,Obesity Class I,High Risk,Prediabetes,25,34.4,0.528,0.00%,72,112,176,Non-Diabetic,1,30
+21 - 29,Normal,Unknown,Moderate Risk,Normal,25,0,0.256,0.00%,0,94,0,Non-Diabetic,0,0
+21 - 29,Normal,Obesity Class III,Extreme Risk,Diabetes,25,59.4,2.42,100.00%,78,180,14,Diabetic,0,63
+21 - 29,Normal,Obesity Class II,Moderate Risk,Normal,25,39.9,0.381,0.00%,68,91,210,Non-Diabetic,0,32
+21 - 29,Normal,Obesity Class II,High Risk,Normal,25,36.8,0.6,0.00%,64,97,100,Non-Diabetic,0,36
+21 - 29,Normal,Obesity Class I,High Risk,Normal,25,30.1,0.547,0.00%,72,81,76,Non-Diabetic,2,15
+21 - 29,Normal,Overweight,Low Risk,Hypoglycemia,25,25,0.187,0.00%,70,68,66,Non-Diabetic,2,32
+21 - 29,Hypertension Stage 1,Obesity Class II,Low Risk,Normal,25,39.5,0.159,0.00%,90,84,56,Non-Diabetic,4,23
+21 - 29,Normal,Obesity Class I,High Risk,Normal,25,31.9,0.591,0.00%,68,84,106,Non-Diabetic,3,30
+21 - 29,Normal,Obesity Class II,Moderate Risk,Prediabetes,25,35.5,0.28,0.00%,44,119,63,Non-Diabetic,1,47
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,25,21.1,0.342,0.00%,0,73,0,Non-Diabetic,0,0
+21 - 29,Normal,Overweight,Extreme Risk,Normal,25,28.5,1.699,0.00%,52,82,115,Non-Diabetic,2,22
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,25,19.5,0.482,0.00%,62,92,41,Non-Diabetic,1,25
+21 - 29,Normal,Obesity Class II,Moderate Risk,Diabetes,25,38.7,0.24,100.00%,52,155,540,Diabetic,2,27
+21 - 29,Normal,Obesity Class II,Moderate Risk,Normal,25,35.3,0.263,0.00%,60,93,0,Non-Diabetic,0,0
+21 - 29,Normal,Obesity Class II,Low Risk,Prediabetes,25,36,0.127,100.00%,52,121,0,Diabetic,3,0
+21 - 29,Normal,Obesity Class I,High Risk,Diabetes,25,33.2,0.591,0.00%,74,129,205,Non-Diabetic,2,26
+21 - 29,Normal,Normal Weight,Low Risk,Normal,25,23.5,0.191,0.00%,60,90,0,Non-Diabetic,2,0
+21 - 29,Normal,Obesity Class II,Moderate Risk,Prediabetes,25,36.1,0.496,0.00%,78,116,180,Non-Diabetic,1,29
+21 - 29,Normal,Overweight,Moderate Risk,Prediabetes,25,26,0.223,0.00%,62,108,0,Non-Diabetic,3,24
+21 - 29,Normal,Obesity Class I,Moderate Risk,Normal,26,31,0.248,100.00%,50,78,88,Diabetic,3,32
+21 - 29,Normal,Obesity Class I,Moderate Risk,Diabetes,26,34,0.271,0.00%,64,180,70,Non-Diabetic,3,25
+21 - 29,Normal,Normal Weight,High Risk,Prediabetes,26,24.2,0.526,0.00%,50,101,36,Non-Diabetic,1,15
+21 - 29,Normal,Overweight,Moderate Risk,Diabetes,26,28.6,0.411,0.00%,64,139,140,Non-Diabetic,5,35
+21 - 29,Normal,Obesity Class III,Moderate Risk,Diabetes,26,43.2,0.27,100.00%,0,131,0,Diabetic,0,0
+21 - 29,Normal,Obesity Class II,Moderate Risk,Prediabetes,26,38.5,0.324,0.00%,68,100,71,Non-Diabetic,2,25
+21 - 29,Normal,Obesity Class III,Moderate Risk,Normal,26,55,0.496,100.00%,30,88,99,Diabetic,1,42
+21 - 29,Normal,Normal Weight,High Risk,Normal,26,21.1,0.647,0.00%,68,96,49,Non-Diabetic,2,13
+21 - 29,Hypertension Stage 2,Obesity Class III,Moderate Risk,Diabetes,26,67.1,0.319,100.00%,110,129,130,Diabetic,0,46
+21 - 29,Normal,Obesity Class I,Extreme Risk,Prediabetes,26,34.8,0.905,100.00%,64,109,99,Diabetic,4,44
+21 - 29,Normal,Normal Weight,High Risk,Prediabetes,26,23.6,0.666,0.00%,66,100,56,Non-Diabetic,1,15
+21 - 29,Normal,Obesity Class II,Low Risk,Prediabetes,26,35.7,0.198,0.00%,76,101,0,Non-Diabetic,0,0
+21 - 29,Normal,Obesity Class III,Moderate Risk,Diabetes,26,43.6,0.479,100.00%,72,171,0,Diabetic,4,0
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,26,20.8,0.34,0.00%,56,96,49,Non-Diabetic,4,17
+21 - 29,Normal,Obesity Class I,Moderate Risk,Prediabetes,26,34.1,0.315,0.00%,68,112,94,Non-Diabetic,2,22
+21 - 29,Normal,Obesity Class III,Moderate Risk,Diabetes,26,47.9,0.259,0.00%,76,165,255,Non-Diabetic,0,43
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,26,21.8,0.279,0.00%,62,99,74,Non-Diabetic,3,19
+21 - 29,Normal,Obesity Class III,High Risk,Prediabetes,26,42.1,0.52,0.00%,48,123,165,Non-Diabetic,2,32
+21 - 29,Prehypertension,Obesity Class III,High Risk,Prediabetes,26,45.3,0.507,0.00%,88,119,170,Non-Diabetic,1,41
+21 - 29,Hypertension Stage 1,Obesity Class III,Moderate Risk,Diabetes,26,40.6,0.284,0.00%,94,135,145,Non-Diabetic,0,46
+21 - 29,Prehypertension,Obesity Class II,Moderate Risk,Normal,26,36.5,0.33,0.00%,80,95,92,Non-Diabetic,0,45
+21 - 29,Normal,Obesity Class I,Moderate Risk,Prediabetes,26,30.5,0.285,0.00%,74,120,63,Non-Diabetic,0,18
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,26,21.8,0.416,0.00%,62,71,0,Non-Diabetic,1,0
+21 - 29,Prehypertension,Obesity Class I,Moderate Risk,Prediabetes,26,33.2,0.305,0.00%,80,124,130,Non-Diabetic,3,33
+21 - 29,Normal,Unknown,Low Risk,Prediabetes,26,0,0.189,0.00%,0,114,0,Non-Diabetic,6,0
+21 - 29,Normal,Normal Weight,Moderate Risk,Prediabetes,26,23.1,0.407,0.00%,38,109,120,Non-Diabetic,1,18
+21 - 29,Prehypertension,Obesity Class I,Extreme Risk,Prediabetes,26,32.5,0.878,0.00%,80,105,0,Non-Diabetic,6,28
+21 - 29,Normal,Obesity Class III,Moderate Risk,Diabetes,26,49.6,0.364,100.00%,76,162,0,Diabetic,0,36
+21 - 29,Normal,Obesity Class III,Extreme Risk,Prediabetes,26,44.5,0.904,0.00%,70,118,0,Non-Diabetic,4,0
+21 - 29,Normal,Obesity Class II,Moderate Risk,Prediabetes,26,35.9,0.483,0.00%,76,122,200,Non-Diabetic,2,27
+21 - 29,Normal,Obesity Class I,Moderate Risk,Prediabetes,26,30.8,0.4,0.00%,44,102,94,Non-Diabetic,3,20
+21 - 29,Prehypertension,Obesity Class III,Moderate Risk,Diabetes,26,43.3,0.222,100.00%,88,181,510,Diabetic,0,44
+21 - 29,Normal,Obesity Class II,Low Risk,Prediabetes,26,37.5,0.197,0.00%,76,106,0,Non-Diabetic,1,0
+21 - 29,Prehypertension,Obesity Class II,High Risk,Diabetes,27,39.3,0.704,0.00%,88,126,235,Non-Diabetic,3,41
+21 - 29,Normal,Obesity Class II,High Risk,Normal,27,38.2,0.503,100.00%,68,90,0,Diabetic,2,42
+21 - 29,Prehypertension,Overweight,Low Risk,Diabetes,27,28.9,0.189,0.00%,85,146,100,Non-Diabetic,4,27
+21 - 29,Normal,Obesity Class II,Moderate Risk,Normal,27,37.7,0.37,0.00%,72,95,0,Non-Diabetic,5,33
+21 - 29,Normal,Obesity Class I,High Risk,Prediabetes,27,32.4,0.698,0.00%,74,110,125,Non-Diabetic,2,29
+21 - 29,Normal,Obesity Class II,Extreme Risk,Normal,27,39.6,0.93,0.00%,65,85,0,Non-Diabetic,2,0
+21 - 29,Hypertension Stage 2,Normal Weight,Moderate Risk,Normal,27,22.4,0.207,0.00%,122,96,0,Non-Diabetic,1,0
+21 - 29,Prehypertension,Obesity Class III,Low Risk,Prediabetes,27,44.2,0.167,0.00%,80,114,285,Non-Diabetic,0,34
+21 - 29,Normal,Overweight,Moderate Risk,Normal,27,26.8,0.268,0.00%,60,73,0,Non-Diabetic,5,0
+21 - 29,Normal,Normal Weight,Moderate Risk,Normal,27,20.4,0.235,0.00%,70,99,44,Non-Diabetic,2,16
+21 - 29,Normal,Normal Weight,Moderate Risk,Prediabetes,27,23.9,0.407,0.00%,72,111,0,Non-Diabetic,5,28
+21 - 29,Normal,Underweight,High Risk,Prediabetes,27,18.4,0.582,0.00%,76,104,0,Non-Diabetic,0,0
+21 - 29,Prehypertension,Overweight,Moderate Risk,Diabetes,27,28,0.284,0.00%,84,129,0,Non-Diabetic,2,0
+21 - 29,Normal,Obesity Class I,High Risk,Diabetes,27,30,0.761,100.00%,0,141,0,Diabetic,3,0
+21 - 29,Normal,Overweight,Moderate Risk,Diabetes,27,26.6,0.433,100.00%,74,155,96,Diabetic,2,17
+21 - 29,Normal,Obesity Class III,Moderate Risk,Diabetes,27,45.7,0.34,100.00%,76,166,0,Diabetic,5,0
+21 - 29,Normal,Underweight,High Risk,Normal,27,18.2,0.624,0.00%,68,83,0,Non-Diabetic,1,0
+21 - 29,Normal,Obesity Class III,High Risk,Diabetes,27,46.1,0.571,0.00%,78,154,140,Non-Diabetic,6,41
+21 - 29,Normal,Obesity Class I,High Risk,Diabetes,27,32.4,0.549,100.00%,72,128,190,Diabetic,3,25
+21 - 29,Prehypertension,Obesity Class I,High Risk,Normal,27,32.4,0.601,0.00%,80,91,0,Non-Diabetic,0,0
+21 - 29,Normal,Overweight,Moderate Risk,Prediabetes,27,25,0.206,0.00%,60,109,0,Non-Diabetic,6,27
+21 - 29,Prehypertension,Obesity Class III,Moderate Risk,Diabetes,27,41.5,0.27,0.00%,82,152,272,Non-Diabetic,0,39
+21 - 29,Normal,Overweight,Moderate Risk,Prediabetes,27,25.8,0.207,0.00%,72,106,0,Non-Diabetic,3,0
+21 - 29,Prehypertension,Overweight,High Risk,Prediabetes,27,29.3,0.695,0.00%,86,102,105,Non-Diabetic,0,17
+21 - 29,Normal,Overweight,High Risk,Prediabetes,27,27.6,0.73,0.00%,72,103,152,Non-Diabetic,3,30
+21 - 29,Normal,Obesity Class I,Moderate Risk,Prediabetes,27,33.8,0.466,0.00%,60,117,106,Non-Diabetic,1,23
+21 - 29,Normal,Overweight,Moderate Risk,Prediabetes,27,26.8,0.455,0.00%,54,120,0,Non-Diabetic,2,0
+21 - 29,Prehypertension,Obesity Class I,Extreme Risk,Normal,27,34.2,1.292,100.00%,82,80,70,Diabetic,3,31
+21 - 29,Prehypertension,Obesity Class I,High Risk,Prediabetes,27,32.3,0.536,100.00%,80,125,0,Diabetic,4,0
+21 - 29,Normal,Overweight,Low Risk,Prediabetes,27,28.4,0.118,0.00%,76,110,100,Non-Diabetic,4,20
+21 - 29,Hypertension Stage 1,Obesity Class III,Moderate Risk,Diabetes,27,49.3,0.358,100.00%,94,147,0,Diabetic,1,41
+21 - 29,Normal,Obesity Class II,Moderate Risk,Prediabetes,27,36.8,0.34,0.00%,70,122,0,Non-Diabetic,2,27
+21 - 29,Normal,Obesity Class I,Extreme Risk,Diabetes,28,31.6,0.851,100.00%,76,158,245,Diabetic,3,36
+21 - 29,Hypertension Stage 1,Normal Weight,Low Risk,Normal,28,19.9,0.188,0.00%,92,92,0,Non-Diabetic,6,0
+21 - 29,Normal,Obesity Class I,Extreme Risk,Prediabetes,28,32.9,0.867,100.00%,66,100,90,Diabetic,2,20
+21 - 29,Normal,Obesity Class II,Low Risk,Prediabetes,28,36.9,0.159,0.00%,72,105,325,Non-Diabetic,5,29
+21 - 29,Prehypertension,Obesity Class III,Moderate Risk,Diabetes,28,40.1,0.236,0.00%,82,138,0,Non-Diabetic,1,0
+21 - 29,Normal,Overweight,Moderate Risk,Diabetes,28,27.5,0.24,100.00%,0,146,0,Diabetic,2,0
+21 - 29,Normal,Obesity Class II,Moderate Risk,Diabetes,28,37.9,0.334,100.00%,70,146,0,Diabetic,0,0
+21 - 29,Normal,Obesity Class II,High Risk,Diabetes,28,35.5,0.692,0.00%,62,151,120,Non-Diabetic,6,31
+21 - 29,Hypertension Stage 1,Obesity Class III,Moderate Risk,Prediabetes,28,52.9,0.209,100.00%,98,115,0,Diabetic,5,0
+21 - 29,Normal,Obesity Class II,Low Risk,Prediabetes,28,38.1,0.15,0.00%,66,115,140,Non-Diabetic,3,39
+21 - 29,Normal,Obesity Class I,Extreme Risk,Prediabetes,28,33.3,0.962,100.00%,50,125,167,Diabetic,1,40
+21 - 29,Normal,Obesity Class II,Extreme Risk,Prediabetes,28,36.2,0.816,0.00%,52,122,158,Non-Diabetic,2,43
+21 - 29,Normal,Obesity Class I,Extreme Risk,Prediabetes,28,31.6,0.949,0.00%,68,100,81,Non-Diabetic,3,23
+21 - 29,Normal,Obesity Class III,High Risk,Diabetes,28,42.4,0.702,100.00%,68,172,579,Diabetic,1,49
+21 - 29,Hypertension Stage 1,Obesity Class II,High Risk,Prediabetes,28,35.7,0.674,0.00%,90,102,0,Non-Diabetic,6,39
+21 - 29,Normal,Overweight,Moderate Risk,Diabetes,28,26.4,0.219,100.00%,64,129,115,Diabetic,3,29
+21 - 29,Normal,Overweight,Moderate Risk,Diabetes,28,29.9,0.434,0.00%,75,147,0,Non-Diabetic,5,0
+21 - 29,Normal,Overweight,High Risk,Prediabetes,28,25.3,0.658,0.00%,72,100,70,Non-Diabetic,1,12
+21 - 29,Prehypertension,Obesity Class III,High Risk,Diabetes,28,41.3,0.607,0.00%,82,144,0,Non-Diabetic,1,40
+21 - 29,Normal,Overweight,Moderate Risk,Normal,28,27.8,0.306,0.00%,58,85,49,Non-Diabetic,4,22
+21 - 29,Normal,Overweight,Moderate Risk,Normal,28,25.6,0.294,0.00%,72,99,0,Non-Diabetic,4,17
+21 - 29,Normal,Obesity Class II,Moderate Risk,Normal,28,37.2,0.267,0.00%,72,84,0,Non-Diabetic,3,32
+21 - 29,Normal,Obesity Class I,Moderate Risk,Diabetes,28,31.6,0.268,100.00%,70,163,105,Diabetic,3,18
+21 - 29,Normal,Obesity Class I,Low Risk,Diabetes,28,33.1,0.16,0.00%,68,131,166,Non-Diabetic,4,21
+21 - 29,Normal,Obesity Class II,Moderate Risk,Normal,28,36.9,0.471,0.00%,64,84,115,Non-Diabetic,1,23
+21 - 29,Normal,Obesity Class III,High Risk,Diabetes,28,41.3,0.502,100.00%,66,198,274,Diabetic,0,32
+21 - 29,Normal,Normal Weight,Low Risk,Normal,28,23.7,0.19,0.00%,0,96,0,Non-Diabetic,6,0
+21 - 29,Prehypertension,Obesity Class II,Moderate Risk,Prediabetes,28,38.4,0.246,0.00%,86,112,160,Non-Diabetic,2,42
+21 - 29,Normal,Normal Weight,Extreme Risk,Normal,28,24.2,1.698,0.00%,76,92,0,Non-Diabetic,2,20
+21 - 29,Normal,Normal Weight,Low Risk,Prediabetes,28,19.5,0.149,0.00%,74,100,46,Non-Diabetic,1,12
+21 - 29,Normal,Obesity Class I,Moderate Risk,Prediabetes,28,34.1,0.269,0.00%,74,123,77,Non-Diabetic,5,40
+21 - 29,Prehypertension,Obesity Class I,High Risk,Diabetes,28,34.5,0.598,0.00%,88,127,155,Non-Diabetic,4,11
+21 - 29,Prehypertension,Obesity Class II,Low Risk,Normal,28,39.8,0.177,0.00%,80,80,0,Non-Diabetic,6,36
+21 - 29,Normal,Obesity Class II,Moderate Risk,Normal,28,35.4,0.284,0.00%,60,95,0,Non-Diabetic,4,32
+21 - 29,Normal,Obesity Class II,Moderate Risk,Prediabetes,28,39,0.261,0.00%,78,121,74,Non-Diabetic,1,39
+21 - 29,Normal,Obesity Class II,Low Risk,Prediabetes,29,35.3,0.134,0.00%,0,115,0,Non-Diabetic,10,0
+21 - 29,Prehypertension,Overweight,Moderate Risk,Prediabetes,29,29,0.263,100.00%,80,119,0,Diabetic,9,35
+21 - 29,Normal,Overweight,High Risk,Diabetes,29,29.7,0.564,0.00%,56,146,0,Non-Diabetic,1,0
+21 - 29,Prehypertension,Obesity Class I,High Risk,Diabetes,29,31.2,0.703,0.00%,80,129,0,Non-Diabetic,0,0
+21 - 29,Normal,Obesity Class I,Moderate Risk,Prediabetes,29,31.9,0.471,0.00%,66,110,0,Non-Diabetic,4,0
+21 - 29,Hypertension Stage 1,Overweight,Moderate Risk,Prediabetes,29,28.4,0.495,0.00%,90,111,78,Non-Diabetic,3,12
+21 - 29,Normal,Obesity Class II,High Risk,Diabetes,29,35.4,0.542,100.00%,70,134,130,Diabetic,6,23
+21 - 29,Prehypertension,Obesity Class II,Moderate Risk,Diabetes,29,39.4,0.395,100.00%,84,158,210,Diabetic,5,41
+21 - 29,Normal,Obesity Class I,Low Risk,Diabetes,29,30.9,0.15,100.00%,60,148,318,Diabetic,4,27
+21 - 29,Normal,Obesity Class II,Moderate Risk,Prediabetes,29,35,0.394,0.00%,68,122,0,Non-Diabetic,4,0
+21 - 29,Normal,Obesity Class II,Moderate Risk,Diabetes,29,38.2,0.329,0.00%,76,146,194,Non-Diabetic,2,35
+21 - 29,Normal,Overweight,Moderate Risk,Prediabetes,29,26.5,0.296,100.00%,60,106,0,Diabetic,7,24
+21 - 29,Prehypertension,Obesity Class III,Extreme Risk,Prediabetes,29,45.6,0.808,100.00%,86,119,220,Diabetic,1,39
+21 - 29,Normal,Overweight,Moderate Risk,Diabetes,29,28,0.337,100.00%,70,146,360,Diabetic,2,38
+21 - 29,Normal,Obesity Class II,Moderate Risk,Prediabetes,29,39.7,0.215,0.00%,76,120,105,Non-Diabetic,2,37
+21 - 29,Normal,Obesity Class I,Moderate Risk,Diabetes,29,30.5,0.345,100.00%,74,182,0,Diabetic,3,0
+21 - 29,Prehypertension,Obesity Class III,Moderate Risk,Normal,29,42.2,0.237,0.00%,80,92,0,Non-Diabetic,4,0
+21 - 29,Normal,Obesity Class II,Extreme Risk,Diabetes,29,36.5,0.875,100.00%,76,196,249,Diabetic,1,36
+21 - 29,Normal,Obesity Class I,High Risk,Diabetes,29,31.2,0.583,100.00%,64,189,325,Diabetic,5,33
+21 - 29,Normal,Overweight,Moderate Risk,Prediabetes,29,27.6,0.368,100.00%,72,124,0,Diabetic,6,0
+21 - 29,Normal,Overweight,Low Risk,Diabetes,29,25.6,0.167,0.00%,75,139,0,Non-Diabetic,2,0
+21 - 29,Normal,Obesity Class III,Moderate Risk,Diabetes,29,42.4,0.205,100.00%,0,141,0,Diabetic,0,0
+21 - 29,Prehypertension,Obesity Class I,High Risk,Prediabetes,29,33.7,0.711,100.00%,80,105,191,Diabetic,2,45
+21 - 29,Prehypertension,Obesity Class II,Low Risk,Prediabetes,29,35.2,0.197,0.00%,88,123,0,Non-Diabetic,0,37
+21 - 29,Normal,Obesity Class III,Extreme Risk,Normal,29,41.3,0.917,0.00%,66,86,65,Non-Diabetic,1,52
+21 - 29,Normal,Obesity Class I,Moderate Risk,Normal,29,32,0.365,0.00%,78,88,76,Non-Diabetic,1,29
+21 - 29,Normal,Normal Weight,Moderate Risk,Prediabetes,29,24.3,0.249,0.00%,66,103,0,Non-Diabetic,6,0
+21 - 29,Prehypertension,Obesity Class II,Moderate Risk,Normal,29,37.7,0.362,0.00%,88,90,54,Non-Diabetic,4,47
+21 - 29,Normal,Overweight,Low Risk,Prediabetes,29,28.3,0.181,0.00%,50,107,0,Non-Diabetic,1,19
+30 - 39,Normal,Overweight,Moderate Risk,Prediabetes,30,25.6,0.201,0.00%,74,116,0,Non-Diabetic,5,0
+30 - 39,Hypertension Stage 1,Obesity Class II,Low Risk,Prediabetes,30,37.6,0.191,0.00%,92,110,0,Non-Diabetic,4,0
+30 - 39,Normal,Normal Weight,Moderate Risk,Normal,30,24.4,0.342,0.00%,66,88,23,Non-Diabetic,5,21
+30 - 39,Normal,Obesity Class III,Moderate Risk,Prediabetes,30,42.9,0.452,0.00%,70,120,135,Non-Diabetic,3,30
+30 - 39,Normal,Obesity Class I,Moderate Risk,Diabetes,30,34.5,0.356,100.00%,64,170,225,Diabetic,3,37
+30 - 39,Normal,Obesity Class I,High Risk,Prediabetes,30,30.1,0.557,0.00%,56,111,0,Non-Diabetic,3,39
+30 - 39,Normal,Obesity Class I,Extreme Risk,Diabetes,30,32.3,0.839,100.00%,0,167,0,Diabetic,0,0
+30 - 39,Normal,Obesity Class I,Extreme Risk,Prediabetes,30,32.9,0.875,100.00%,68,124,205,Diabetic,2,28
+30 - 39,Prehypertension,Normal Weight,Moderate Risk,Normal,30,19.3,0.284,0.00%,80,99,64,Non-Diabetic,3,11
+30 - 39,Normal,Obesity Class II,High Risk,Prediabetes,30,35.1,0.692,100.00%,64,122,156,Diabetic,1,32
+30 - 39,Prehypertension,Obesity Class I,Moderate Risk,Diabetes,30,31.2,0.252,0.00%,84,137,0,Non-Diabetic,4,0
+30 - 39,Normal,Obesity Class I,Moderate Risk,Diabetes,30,34.9,0.385,0.00%,74,147,293,Non-Diabetic,4,25
+30 - 39,Normal,Obesity Class I,Moderate Risk,Normal,30,34,0.499,0.00%,54,99,83,Non-Diabetic,5,28
+30 - 39,Normal,Overweight,Moderate Risk,Prediabetes,30,29.7,0.38,100.00%,62,117,0,Diabetic,4,12
+30 - 39,Normal,Overweight,Moderate Risk,Prediabetes,30,26,0.292,0.00%,68,110,0,Non-Diabetic,5,0
+30 - 39,Normal,Obesity Class II,Moderate Risk,Normal,30,38.1,0.218,0.00%,70,97,0,Non-Diabetic,1,40
+30 - 39,Normal,Overweight,Low Risk,Prediabetes,30,27.8,0.1,0.00%,74,124,0,Non-Diabetic,1,36
+30 - 39,Hypertension Stage 1,Overweight,Low Risk,Prediabetes,30,28.7,0.157,0.00%,96,117,0,Non-Diabetic,6,0
+30 - 39,Normal,Obesity Class II,Low Risk,Diabetes,30,39.4,0.134,0.00%,74,157,440,Non-Diabetic,2,35
+30 - 39,Normal,Unknown,Moderate Risk,Prediabetes,30,0,0.261,100.00%,0,115,0,Diabetic,10,0
+30 - 39,Normal,Overweight,Moderate Risk,Prediabetes,30,26.2,0.245,0.00%,72,121,112,Non-Diabetic,5,23
+30 - 39,Normal,Overweight,Moderate Risk,Normal,31,26.6,0.351,0.00%,66,85,0,Non-Diabetic,1,29
+30 - 39,Prehypertension,Obesity Class III,High Risk,Prediabetes,31,45.8,0.551,100.00%,84,118,230,Diabetic,0,47
+30 - 39,Normal,Overweight,Moderate Risk,Prediabetes,31,29.6,0.254,100.00%,74,107,0,Diabetic,7,0
+30 - 39,Normal,Obesity Class II,Moderate Risk,Prediabetes,31,39.1,0.344,100.00%,66,103,0,Diabetic,7,32
+30 - 39,Prehypertension,Obesity Class III,Extreme Risk,Prediabetes,31,46.8,0.962,0.00%,88,100,110,Non-Diabetic,0,60
+30 - 39,Hypertension Stage 1,Obesity Class III,Moderate Risk,Prediabetes,31,49.7,0.325,100.00%,90,122,220,Diabetic,1,51
+30 - 39,Normal,Obesity Class I,Low Risk,Prediabetes,31,33.8,0.088,0.00%,60,125,140,Non-Diabetic,2,20
+30 - 39,Normal,Overweight,High Risk,Prediabetes,31,27.9,0.64,100.00%,76,109,114,Diabetic,8,39
+30 - 39,Normal,Obesity Class II,Extreme Risk,Diabetes,31,36.7,2.329,0.00%,70,197,744,Non-Diabetic,4,39
+30 - 39,Normal,Obesity Class III,Extreme Risk,Diabetes,31,43.3,1.224,100.00%,78,128,182,Diabetic,2,37
+30 - 39,Normal,Overweight,High Risk,Diabetes,31,27.5,0.527,0.00%,60,129,231,Non-Diabetic,4,12
+30 - 39,Normal,Obesity Class I,Extreme Risk,Diabetes,31,32.9,0.803,100.00%,78,158,0,Diabetic,4,0
+30 - 39,Normal,Obesity Class I,Low Risk,Normal,31,32,0.161,100.00%,64,95,0,Diabetic,4,0
+30 - 39,Normal,Obesity Class II,Moderate Risk,Diabetes,31,37,0.264,100.00%,78,184,277,Diabetic,4,39
+30 - 39,Prehypertension,Obesity Class II,High Risk,Prediabetes,31,36.8,0.727,0.00%,88,107,0,Non-Diabetic,6,0
+30 - 39,Normal,Normal Weight,Moderate Risk,Prediabetes,31,23.8,0.466,0.00%,76,114,110,Non-Diabetic,7,17
+30 - 39,Normal,Obesity Class III,High Risk,Diabetes,31,44.2,0.63,100.00%,0,145,0,Diabetic,0,0
+30 - 39,Normal,Normal Weight,High Risk,Prediabetes,31,24.6,0.66,0.00%,65,111,0,Non-Diabetic,0,0
+30 - 39,Normal,Overweight,High Risk,Normal,31,29.8,0.501,0.00%,0,91,0,Non-Diabetic,6,0
+30 - 39,Normal,Overweight,Low Risk,Normal,31,25.9,0.167,0.00%,62,92,0,Non-Diabetic,10,0
+30 - 39,Normal,Overweight,High Risk,Normal,31,28,0.61,0.00%,0,90,0,Non-Diabetic,4,0
+30 - 39,Normal,Obesity Class I,Moderate Risk,Diabetes,31,30.9,0.328,100.00%,70,195,0,Diabetic,6,0
+30 - 39,Normal,Overweight,Moderate Risk,Diabetes,31,29.9,0.268,100.00%,74,169,125,Diabetic,3,19
+30 - 39,Normal,Obesity Class I,Extreme Risk,Diabetes,31,33.8,0.97,100.00%,78,173,185,Diabetic,3,39
+30 - 39,Normal,Normal Weight,High Risk,Diabetes,32,23.3,0.672,100.00%,64,183,0,Diabetic,8,0
+30 - 39,Normal,Obesity Class I,Moderate Risk,Prediabetes,32,30,0.484,100.00%,0,100,0,Diabetic,7,0
+30 - 39,Normal,Obesity Class I,High Risk,Prediabetes,32,34.6,0.529,100.00%,70,115,96,Diabetic,1,30
+30 - 39,Normal,Overweight,Moderate Risk,Normal,32,29,0.203,0.00%,74,99,0,Non-Diabetic,5,27
+30 - 39,Prehypertension,Obesity Class I,High Risk,Diabetes,32,31.6,0.743,100.00%,88,131,0,Diabetic,0,0
+30 - 39,Prehypertension,Normal Weight,Low Risk,Normal,32,23.2,0.084,0.00%,80,87,0,Non-Diabetic,6,0
+30 - 39,Normal,Overweight,High Risk,Prediabetes,32,27.3,0.787,0.00%,68,108,0,Non-Diabetic,0,20
+30 - 39,Normal,Obesity Class I,Moderate Risk,Prediabetes,32,30,0.464,0.00%,68,125,120,Non-Diabetic,6,30
+30 - 39,Normal,Overweight,Extreme Risk,Normal,32,29,1.224,100.00%,74,85,0,Diabetic,5,22
+30 - 39,Prehypertension,Obesity Class I,Extreme Risk,Diabetes,32,30.8,0.831,100.00%,84,164,0,Diabetic,9,21
+30 - 39,Normal,Obesity Class III,Moderate Risk,Diabetes,32,48.3,0.238,100.00%,75,156,0,Diabetic,4,0
+30 - 39,Hypertension Stage 1,Obesity Class II,Extreme Risk,Diabetes,32,36.4,0.968,100.00%,92,129,155,Diabetic,3,49
+30 - 39,Normal,Overweight,Moderate Risk,Normal,32,26.9,0.497,0.00%,60,99,54,Non-Diabetic,6,19
+30 - 39,Normal,Obesity Class III,Extreme Risk,Normal,32,40.9,0.871,100.00%,76,97,91,Diabetic,7,32
+30 - 39,Normal,Overweight,Low Risk,Prediabetes,32,29.5,0.121,0.00%,74,102,0,Non-Diabetic,3,0
+30 - 39,Normal,Obesity Class III,Extreme Risk,Normal,32,46.3,1.096,0.00%,74,81,57,Non-Diabetic,1,41
+30 - 39,Normal,Obesity Class III,Extreme Risk,Diabetes,33,43.1,2.288,100.00%,40,137,168,Diabetic,0,35
+30 - 39,Normal,Obesity Class III,Low Risk,Prediabetes,33,43.3,0.183,0.00%,30,103,83,Non-Diabetic,1,38
+30 - 39,Normal,Normal Weight,Extreme Risk,Prediabetes,33,24,0.966,0.00%,60,103,192,Non-Diabetic,4,33
+30 - 39,Normal,Obesity Class II,Extreme Risk,Diabetes,33,39,1.222,100.00%,72,163,0,Diabetic,1,0
+30 - 39,Normal,Overweight,Moderate Risk,Diabetes,33,29.7,0.361,100.00%,70,173,168,Diabetic,4,14
+30 - 39,Normal,Obesity Class I,Extreme Risk,Prediabetes,33,33.3,1.114,100.00%,56,122,0,Diabetic,9,0
+30 - 39,Normal,Overweight,Moderate Risk,Normal,33,29.7,0.37,0.00%,64,75,55,Non-Diabetic,2,24
+30 - 39,Hypertension Stage 1,Obesity Class I,Extreme Risk,Diabetes,33,32,1.321,100.00%,98,128,58,Diabetic,1,41
+30 - 39,Normal,Overweight,Extreme Risk,Prediabetes,33,27.1,1.318,100.00%,50,119,176,Diabetic,6,22
+30 - 39,Normal,Obesity Class II,Moderate Risk,Prediabetes,33,36.1,0.263,0.00%,72,108,75,Non-Diabetic,5,43
+30 - 39,Normal,Obesity Class I,Extreme Risk,Diabetes,33,34.2,0.893,100.00%,78,152,171,Diabetic,9,34
+30 - 39,Prehypertension,Obesity Class I,Moderate Risk,Prediabetes,33,34.7,0.29,0.00%,86,122,0,Non-Diabetic,5,0
+30 - 39,Normal,Obesity Class I,Extreme Risk,Prediabetes,33,30.5,0.955,100.00%,70,108,0,Diabetic,8,0
+30 - 39,Normal,Obesity Class I,Low Risk,Normal,33,32.8,0.145,0.00%,68,99,0,Non-Diabetic,4,38
+30 - 39,Normal,Obesity Class I,Moderate Risk,Prediabetes,33,34.3,0.203,100.00%,66,121,165,Diabetic,0,30
+30 - 39,Normal,Normal Weight,Moderate Risk,Diabetes,33,23.4,0.447,100.00%,74,167,144,Diabetic,1,17
+30 - 39,Normal,Normal Weight,Low Risk,Normal,33,22.5,0.142,0.00%,62,89,0,Non-Diabetic,9,0
+30 - 39,Normal,Obesity Class II,High Risk,Diabetes,34,38,0.537,100.00%,74,168,0,Diabetic,10,0
+30 - 39,Prehypertension,Obesity Class I,Moderate Risk,Prediabetes,34,32,0.443,0.00%,80,123,176,Non-Diabetic,4,15
+30 - 39,Normal,Obesity Class I,Extreme Risk,Prediabetes,34,30.5,1.4,0.00%,64,106,119,Non-Diabetic,2,35
+30 - 39,Normal,Overweight,High Risk,Prediabetes,34,29.6,0.709,0.00%,68,120,0,Non-Diabetic,4,0
+30 - 39,Normal,Obesity Class II,Moderate Risk,Prediabetes,34,35.4,0.282,0.00%,70,124,402,Non-Diabetic,9,33
+30 - 39,Normal,Obesity Class I,Moderate Risk,Diabetes,34,30.9,0.299,0.00%,68,191,130,Non-Diabetic,3,15
+30 - 39,Prehypertension,Obesity Class II,High Risk,Diabetes,34,38.7,0.619,0.00%,84,155,545,Non-Diabetic,5,44
+30 - 39,Hypertension Stage 1,Normal Weight,Extreme Risk,Prediabetes,34,24,1.022,0.00%,98,115,0,Non-Diabetic,10,0
+30 - 39,Normal,Obesity Class I,High Risk,Prediabetes,34,33.6,0.733,0.00%,72,123,230,Non-Diabetic,6,45
+30 - 39,Normal,Overweight,High Risk,Prediabetes,34,27.4,0.732,100.00%,64,114,0,Diabetic,7,0
+30 - 39,Prehypertension,Normal Weight,Extreme Risk,Prediabetes,34,24.6,0.856,0.00%,80,107,0,Non-Diabetic,8,0
+30 - 39,Normal,Obesity Class I,Extreme Risk,Diabetes,34,33.9,0.826,100.00%,50,187,392,Diabetic,7,33
+30 - 39,Prehypertension,Overweight,Moderate Risk,Normal,34,29.3,0.317,0.00%,86,83,0,Non-Diabetic,4,19
+30 - 39,Normal,Overweight,Moderate Risk,Diabetes,34,28.4,0.323,100.00%,78,130,79,Diabetic,3,23
+30 - 39,Normal,Obesity Class I,Moderate Risk,Diabetes,35,33.2,0.42,0.00%,76,138,0,Non-Diabetic,11,0
+30 - 39,Normal,Obesity Class I,Moderate Risk,Prediabetes,35,32,0.226,100.00%,62,123,0,Diabetic,4,0
+30 - 39,Prehypertension,Obesity Class II,Low Risk,Normal,35,35.8,0.156,0.00%,82,77,42,Non-Diabetic,5,41
+30 - 39,Hypertension Stage 2,Obesity Class III,Extreme Risk,Normal,35,43.4,1.021,0.00%,100,93,72,Non-Diabetic,0,39
+30 - 39,Normal,Obesity Class I,High Risk,Prediabetes,35,32.3,0.66,100.00%,74,116,0,Diabetic,5,29
+30 - 39,Prehypertension,Obesity Class II,Moderate Risk,Diabetes,35,35,0.286,100.00%,84,136,88,Diabetic,5,41
+30 - 39,Normal,Obesity Class II,Moderate Risk,Diabetes,35,35.5,0.344,100.00%,70,158,328,Diabetic,3,30
+30 - 39,Hypertension Stage 1,Obesity Class II,Moderate Risk,Diabetes,35,36.5,0.314,100.00%,90,180,90,Diabetic,0,26
+30 - 39,Normal,Obesity Class I,Moderate Risk,Normal,35,30.1,0.3,0.00%,74,85,0,Non-Diabetic,11,0
+30 - 39,Normal,Normal Weight,Extreme Risk,Prediabetes,35,24,0.813,0.00%,44,108,130,Non-Diabetic,6,20
+30 - 39,Normal,Overweight,High Risk,Hypoglycemia,36,25,0.587,0.00%,62,44,0,Non-Diabetic,5,0
+30 - 39,Normal,Overweight,High Risk,Normal,36,29.3,0.767,0.00%,78,83,71,Non-Diabetic,7,26
+30 - 39,Prehypertension,Obesity Class III,Moderate Risk,Diabetes,36,50,0.337,100.00%,88,152,0,Diabetic,7,44
+30 - 39,Hypertension Stage 1,Overweight,Moderate Risk,Diabetes,36,29.7,0.294,0.00%,90,151,0,Non-Diabetic,4,38
+30 - 39,Prehypertension,Obesity Class I,Low Risk,Prediabetes,36,30.8,0.18,100.00%,82,102,0,Diabetic,6,0
+30 - 39,Normal,Obesity Class I,High Risk,Diabetes,36,32.7,0.719,100.00%,72,179,130,Diabetic,8,42
+30 - 39,Normal,Obesity Class I,Moderate Risk,Diabetes,36,30.4,0.383,100.00%,66,159,0,Diabetic,7,0
+30 - 39,Prehypertension,Obesity Class I,Moderate Risk,Prediabetes,36,34.2,0.26,100.00%,82,112,175,Diabetic,9,32
+30 - 39,Normal,Overweight,Moderate Risk,Prediabetes,36,27.4,0.254,100.00%,70,124,0,Diabetic,0,20
+30 - 39,Normal,Overweight,High Risk,Normal,36,25.9,0.673,0.00%,74,95,73,Non-Diabetic,1,21
+30 - 39,Normal,Obesity Class III,High Risk,Diabetes,36,42.9,0.516,100.00%,78,151,210,Diabetic,8,32
+30 - 39,Normal,Normal Weight,Extreme Risk,Normal,36,24.5,1.138,0.00%,68,90,0,Non-Diabetic,1,8
+30 - 39,Normal,Overweight,Moderate Risk,Diabetes,36,27,0.245,0.00%,68,133,0,Non-Diabetic,10,0
+30 - 39,Normal,Overweight,Moderate Risk,Diabetes,36,28.4,0.212,100.00%,0,183,0,Diabetic,4,0
+30 - 39,Normal,Obesity Class I,High Risk,Diabetes,36,32.9,0.593,100.00%,58,174,194,Diabetic,3,22
+30 - 39,Normal,Obesity Class II,Moderate Risk,Diabetes,36,36.4,0.408,100.00%,70,187,200,Diabetic,3,22
+30 - 39,Prehypertension,Obesity Class III,High Risk,Diabetes,37,40.2,0.696,0.00%,84,133,0,Non-Diabetic,7,0
+30 - 39,Hypertension Stage 2,Obesity Class III,Moderate Risk,Diabetes,37,48.8,0.227,100.00%,108,137,0,Diabetic,5,0
+30 - 39,Normal,Overweight,Moderate Risk,Diabetes,37,29.5,0.287,0.00%,58,144,140,Non-Diabetic,4,28
+30 - 39,Normal,Normal Weight,Moderate Risk,Prediabetes,37,21.9,0.432,0.00%,65,114,0,Non-Diabetic,4,0
+30 - 39,Prehypertension,Obesity Class II,Extreme Risk,Diabetes,37,39.1,0.956,100.00%,82,130,0,Diabetic,5,0
+30 - 39,Normal,Overweight,Moderate Risk,Prediabetes,37,25.2,0.209,0.00%,0,119,0,Non-Diabetic,7,0
+30 - 39,Prehypertension,Obesity Class I,Moderate Risk,Diabetes,37,32.4,0.262,0.00%,88,133,155,Non-Diabetic,7,15
+30 - 39,Normal,Normal Weight,Moderate Risk,Diabetes,37,21,0.207,0.00%,76,150,0,Non-Diabetic,3,0
+30 - 39,Normal,Obesity Class II,Moderate Risk,Diabetes,37,35.1,0.2,0.00%,70,179,0,Non-Diabetic,10,0
+30 - 39,Normal,Obesity Class I,Low Risk,Prediabetes,37,30.8,0.122,0.00%,70,105,68,Non-Diabetic,6,32
+30 - 39,Prehypertension,Obesity Class III,Moderate Risk,Hypoglycemia,37,41,0.346,100.00%,80,0,0,Diabetic,5,32
+30 - 39,Normal,Normal Weight,Moderate Risk,Prediabetes,37,22.1,0.463,0.00%,72,116,87,Non-Diabetic,4,12
+30 - 39,Prehypertension,Obesity Class II,High Risk,Diabetes,37,38.5,0.554,100.00%,82,144,0,Diabetic,4,32
+30 - 39,Normal,Overweight,Moderate Risk,Normal,37,27.6,0.258,0.00%,78,88,0,Non-Diabetic,5,30
+30 - 39,Hypertension Stage 1,Obesity Class I,Moderate Risk,Diabetes,37,34.5,0.423,100.00%,90,186,225,Diabetic,8,35
+30 - 39,Hypertension Stage 2,Overweight,High Risk,Diabetes,37,28.5,0.68,0.00%,110,189,0,Non-Diabetic,4,31
+30 - 39,Normal,Overweight,Low Risk,Prediabetes,37,25.5,0.161,0.00%,70,124,215,Non-Diabetic,7,33
+30 - 39,Normal,Obesity Class I,Moderate Risk,Diabetes,37,31.3,0.338,0.00%,72,154,126,Non-Diabetic,4,29
+30 - 39,Prehypertension,Obesity Class II,Extreme Risk,Diabetes,37,36.5,1.057,100.00%,88,128,110,Diabetic,1,39
+30 - 39,Hypertension Stage 1,Obesity Class I,Moderate Risk,Prediabetes,38,34.1,0.337,0.00%,92,117,0,Non-Diabetic,5,0
+30 - 39,Prehypertension,Obesity Class I,Extreme Risk,Prediabetes,38,32.5,0.855,100.00%,88,109,0,Diabetic,0,30
+30 - 39,Normal,Obesity Class I,Moderate Risk,Prediabetes,38,34,0.22,100.00%,74,124,0,Diabetic,5,0
+30 - 39,Prehypertension,Obesity Class II,Moderate Risk,Prediabetes,38,39.5,0.286,0.00%,82,106,0,Non-Diabetic,5,30
+30 - 39,Normal,Obesity Class III,High Risk,Diabetes,38,41.8,0.742,100.00%,70,151,271,Diabetic,12,40
+30 - 39,Prehypertension,Obesity Class III,Extreme Risk,Prediabetes,38,45.6,1.136,100.00%,86,101,0,Diabetic,10,37
+30 - 39,Normal,Obesity Class I,Moderate Risk,Normal,38,31.6,0.28,0.00%,78,72,0,Non-Diabetic,9,25
+30 - 39,Normal,Obesity Class I,Moderate Risk,Diabetes,38,34.1,0.328,100.00%,64,181,180,Diabetic,1,30
+30 - 39,Normal,Obesity Class I,High Risk,Normal,38,30.4,0.551,0.00%,74,89,85,Non-Diabetic,3,16
+30 - 39,Normal,Obesity Class I,Moderate Risk,Diabetes,38,33.6,0.212,100.00%,62,175,0,Diabetic,14,30
+30 - 39,Normal,Obesity Class I,Low Risk,Prediabetes,38,30,0.183,100.00%,0,120,0,Diabetic,8,0
+30 - 39,Prehypertension,Obesity Class I,Moderate Risk,Normal,38,33.3,0.263,0.00%,82,75,0,Non-Diabetic,10,0
+30 - 39,Normal,Obesity Class II,Low Risk,Diabetes,38,36.8,0.088,100.00%,74,173,0,Diabetic,1,0
+30 - 39,Normal,Obesity Class I,Moderate Risk,Prediabetes,38,31.2,0.465,100.00%,72,104,0,Diabetic,13,0
+30 - 39,Normal,Obesity Class III,Moderate Risk,Diabetes,38,41.2,0.441,100.00%,62,129,0,Diabetic,10,36
+30 - 39,Normal,Obesity Class II,Moderate Risk,Prediabetes,38,39.4,0.236,0.00%,78,112,0,Non-Diabetic,4,40
+30 - 39,Normal,Obesity Class I,Moderate Risk,Diabetes,39,32.9,0.27,100.00%,72,133,0,Diabetic,8,0
+30 - 39,Normal,Obesity Class I,High Risk,Diabetes,39,30.5,0.588,100.00%,54,160,175,Diabetic,7,32
+30 - 39,Normal,Obesity Class II,Moderate Risk,Normal,39,38.3,0.457,0.00%,74,84,0,Non-Diabetic,8,31
+30 - 39,Normal,Obesity Class II,Moderate Risk,Diabetes,39,35.9,0.28,0.00%,76,129,122,Non-Diabetic,10,28
+30 - 39,Normal,Normal Weight,Extreme Risk,Normal,39,24.7,0.944,0.00%,56,96,115,Non-Diabetic,3,34
+30 - 39,Normal,Overweight,Extreme Risk,Diabetes,39,25.9,1.191,100.00%,74,197,0,Diabetic,8,0
+30 - 39,Normal,Obesity Class II,High Risk,Normal,39,35.3,0.705,0.00%,70,74,49,Non-Diabetic,8,40
+30 - 39,Normal,Overweight,Low Risk,Diabetes,39,25.9,0.162,0.00%,74,126,75,Non-Diabetic,8,38
+30 - 39,Normal,Overweight,Extreme Risk,Diabetes,39,29.3,0.839,0.00%,74,154,193,Non-Diabetic,6,32
+30 - 39,Normal,Obesity Class I,Moderate Risk,Normal,39,32.5,0.27,0.00%,70,78,0,Non-Diabetic,3,0
+30 - 39,Prehypertension,Obesity Class III,Extreme Risk,Diabetes,39,40.6,1.174,0.00%,88,153,140,Non-Diabetic,13,37
+30 - 39,Hypertension Stage 1,Obesity Class I,Moderate Risk,Diabetes,39,32,0.391,0.00%,90,137,0,Non-Diabetic,7,41
+40 - 49,Normal,Overweight,Moderate Risk,Diabetes,40,27.4,0.294,0.00%,64,159,0,Non-Diabetic,7,0
+40 - 49,Normal,Obesity Class I,Moderate Risk,Diabetes,40,33.9,0.255,0.00%,72,144,228,Non-Diabetic,6,27
+40 - 49,Prehypertension,Obesity Class I,Moderate Risk,Prediabetes,40,34.5,0.403,100.00%,88,117,145,Diabetic,1,24
+40 - 49,Normal,Overweight,Moderate Risk,Diabetes,40,27.6,0.244,0.00%,74,141,0,Non-Diabetic,4,0
+40 - 49,Normal,Obesity Class I,Moderate Risk,Prediabetes,40,33.1,0.374,0.00%,70,123,94,Non-Diabetic,9,44
+40 - 49,Normal,Obesity Class III,High Risk,Diabetes,40,52.3,0.578,100.00%,0,135,0,Diabetic,11,0
+40 - 49,Normal,Normal Weight,Moderate Risk,Prediabetes,40,23,0.254,0.00%,78,122,0,Non-Diabetic,3,0
+40 - 49,Normal,Obesity Class II,Moderate Risk,Normal,40,37.3,0.238,0.00%,78,96,0,Non-Diabetic,3,39
+40 - 49,Prehypertension,Obesity Class II,High Risk,Diabetes,40,38.2,0.787,100.00%,88,168,321,Diabetic,7,42
+40 - 49,Prehypertension,Obesity Class II,High Risk,Diabetes,40,37.9,0.637,100.00%,80,145,130,Diabetic,9,46
+40 - 49,Normal,Obesity Class I,Moderate Risk,Prediabetes,40,33.7,0.245,100.00%,60,115,0,Diabetic,6,39
+40 - 49,Normal,Overweight,Low Risk,Prediabetes,40,27.5,0.141,100.00%,70,111,0,Diabetic,10,27
+40 - 49,Normal,Overweight,Moderate Risk,Diabetes,40,29.6,0.439,0.00%,78,126,22,Non-Diabetic,5,27
+40 - 49,Hypertension Stage 1,Obesity Class II,Moderate Risk,Diabetes,41,39.8,0.451,100.00%,90,196,0,Diabetic,7,0
+40 - 49,Normal,Obesity Class I,Moderate Risk,Prediabetes,41,31.1,0.205,100.00%,70,125,115,Diabetic,10,26
+40 - 49,Normal,Obesity Class II,Moderate Risk,Diabetes,41,37.7,0.254,100.00%,68,187,304,Diabetic,7,39
+40 - 49,Normal,Obesity Class I,Moderate Risk,Hypoglycemia,41,32.6,0.391,0.00%,78,62,0,Non-Diabetic,7,0
+40 - 49,Prehypertension,Obesity Class I,Low Risk,Hypoglycemia,41,32.8,0.096,0.00%,80,57,0,Non-Diabetic,9,37
+40 - 49,Normal,Overweight,High Risk,Prediabetes,41,29.9,0.722,100.00%,74,104,156,Diabetic,6,18
+40 - 49,Normal,Obesity Class II,High Risk,Diabetes,41,35.9,0.745,100.00%,68,194,0,Diabetic,7,28
+40 - 49,Prehypertension,Obesity Class II,Moderate Risk,Diabetes,41,35.5,0.355,100.00%,84,184,0,Diabetic,7,33
+40 - 49,Normal,Obesity Class II,Moderate Risk,Prediabetes,41,37.8,0.261,100.00%,66,112,0,Diabetic,5,0
+40 - 49,Normal,Obesity Class I,Moderate Risk,Prediabetes,41,31.2,0.258,0.00%,68,122,0,Non-Diabetic,10,0
+40 - 49,Normal,Overweight,Moderate Risk,Normal,41,26.2,0.313,0.00%,66,80,0,Non-Diabetic,6,30
+40 - 49,Normal,Obesity Class III,Moderate Risk,Diabetes,41,43.3,0.282,100.00%,0,180,0,Diabetic,1,0
+40 - 49,Prehypertension,Obesity Class II,Moderate Risk,Diabetes,41,39.9,0.331,100.00%,84,178,0,Diabetic,7,0
+40 - 49,Normal,Obesity Class I,Low Risk,Diabetes,41,32.9,0.135,100.00%,64,168,0,Diabetic,5,0
+40 - 49,Prehypertension,Obesity Class II,Moderate Risk,Diabetes,41,37.4,0.244,0.00%,85,140,0,Non-Diabetic,12,33
+40 - 49,Hypertension Stage 2,Obesity Class I,Moderate Risk,Diabetes,41,34.3,0.435,100.00%,104,189,0,Diabetic,0,25
+40 - 49,Normal,Obesity Class II,High Risk,Hypoglycemia,41,39,0.727,100.00%,68,0,0,Diabetic,6,41
+40 - 49,Normal,Obesity Class I,High Risk,Normal,41,33.3,0.738,0.00%,64,94,79,Non-Diabetic,7,25
+40 - 49,Normal,Obesity Class I,Low Risk,Normal,41,32.8,0.18,0.00%,60,76,0,Non-Diabetic,13,0
+40 - 49,Normal,Obesity Class I,Low Risk,Diabetes,41,34.9,0.129,100.00%,66,143,0,Diabetic,8,0
+40 - 49,Prehypertension,Obesity Class II,Extreme Risk,Prediabetes,41,38.9,1.162,0.00%,80,120,200,Non-Diabetic,1,48
+40 - 49,Normal,Obesity Class II,Moderate Risk,Diabetes,41,38.5,0.304,0.00%,0,129,0,Non-Diabetic,2,0
+40 - 49,Normal,Obesity Class I,High Risk,Diabetes,42,34.7,0.718,0.00%,66,150,342,Non-Diabetic,7,42
+40 - 49,Normal,Obesity Class I,Moderate Risk,Prediabetes,42,32.8,0.258,100.00%,66,114,0,Diabetic,7,0
+40 - 49,Hypertension Stage 1,Obesity Class III,High Risk,Diabetes,42,43.4,0.583,100.00%,90,126,0,Diabetic,13,0
+40 - 49,Normal,Obesity Class III,Moderate Risk,Normal,42,46.7,0.261,0.00%,78,81,48,Non-Diabetic,7,40
+40 - 49,Normal,Obesity Class I,Moderate Risk,Prediabetes,42,32.4,0.272,100.00%,66,108,0,Diabetic,10,0
+40 - 49,Prehypertension,Obesity Class I,Extreme Risk,Diabetes,42,34.3,1.189,100.00%,86,156,155,Diabetic,9,28
+40 - 49,Normal,Obesity Class I,Moderate Risk,Normal,42,31.2,0.382,0.00%,78,85,0,Non-Diabetic,6,0
+40 - 49,Normal,Normal Weight,Low Risk,Normal,42,24.4,0.136,0.00%,55,85,0,Non-Diabetic,8,20
+40 - 49,Normal,Obesity Class I,Moderate Risk,Prediabetes,42,31.2,0.38,0.00%,52,106,0,Non-Diabetic,9,0
+40 - 49,Normal,Obesity Class I,Moderate Risk,Prediabetes,42,32,0.444,0.00%,66,100,196,Non-Diabetic,1,29
+40 - 49,Hypertension Stage 1,Obesity Class I,Moderate Risk,Normal,42,33.5,0.292,0.00%,90,89,0,Non-Diabetic,2,30
+40 - 49,Normal,Obesity Class III,Low Risk,Prediabetes,42,46.2,0.126,0.00%,68,103,0,Non-Diabetic,11,40
+40 - 49,Normal,Obesity Class II,Low Risk,Prediabetes,42,38.7,0.19,0.00%,76,100,0,Non-Diabetic,8,0
+40 - 49,Prehypertension,Overweight,Moderate Risk,Diabetes,42,28.3,0.26,100.00%,84,136,130,Diabetic,11,35
+40 - 49,Normal,Overweight,Moderate Risk,Diabetes,42,29.3,0.349,100.00%,68,149,127,Diabetic,1,29
+40 - 49,Prehypertension,Obesity Class II,Moderate Risk,Prediabetes,42,39.1,0.251,0.00%,86,117,105,Non-Diabetic,5,30
+40 - 49,Normal,Obesity Class I,High Risk,Hypoglycemia,42,32,0.6,0.00%,72,65,0,Non-Diabetic,8,23
+40 - 49,Normal,Obesity Class II,Moderate Risk,Prediabetes,42,39.5,0.293,100.00%,74,102,0,Diabetic,1,0
+40 - 49,Normal,Obesity Class II,Moderate Risk,Diabetes,43,39.4,0.257,100.00%,76,147,0,Diabetic,7,0
+40 - 49,Normal,Obesity Class II,Low Risk,Diabetes,43,37.1,0.153,100.00%,70,136,110,Diabetic,15,32
+40 - 49,Normal,Obesity Class III,Low Risk,Diabetes,43,47.9,0.137,100.00%,78,188,0,Diabetic,8,0
+40 - 49,Normal,Obesity Class I,Extreme Risk,Normal,43,33.6,0.997,0.00%,74,96,67,Non-Diabetic,5,18
+40 - 49,Prehypertension,Obesity Class II,Extreme Risk,Prediabetes,43,35.9,1.127,100.00%,80,109,0,Diabetic,7,31
+40 - 49,Hypertension Stage 1,Overweight,High Risk,Diabetes,43,26.8,0.731,100.00%,90,152,29,Diabetic,13,33
+40 - 49,Prehypertension,Obesity Class II,Moderate Risk,Normal,43,35,0.233,100.00%,82,95,180,Diabetic,1,25
+40 - 49,Normal,Obesity Class II,High Risk,Prediabetes,43,39.4,0.661,100.00%,74,100,215,Diabetic,8,40
+40 - 49,Hypertension Stage 2,Obesity Class II,Low Risk,Diabetes,43,37.6,0.165,100.00%,106,167,231,Diabetic,8,46
+40 - 49,Normal,Obesity Class I,Moderate Risk,Normal,43,34,0.43,0.00%,58,98,190,Non-Diabetic,6,33
+40 - 49,Normal,Obesity Class II,Moderate Risk,Diabetes,43,38.5,0.439,100.00%,68,129,125,Diabetic,7,49
+40 - 49,Hypertension Stage 1,Obesity Class I,Low Risk,Diabetes,43,30.4,0.128,100.00%,90,142,480,Diabetic,7,24
+40 - 49,Normal,Obesity Class III,Moderate Risk,Diabetes,43,44,0.403,100.00%,74,170,0,Diabetic,9,31
+40 - 49,Prehypertension,Obesity Class III,Extreme Risk,Diabetes,44,40.5,1.781,0.00%,82,146,0,Non-Diabetic,0,0
+40 - 49,Normal,Overweight,Extreme Risk,Normal,44,27.6,0.926,100.00%,62,92,258,Diabetic,12,7
+40 - 49,Prehypertension,Normal Weight,Low Risk,Prediabetes,44,23.6,0.137,0.00%,80,106,0,Non-Diabetic,12,0
+40 - 49,Normal,Obesity Class I,Extreme Risk,Prediabetes,44,33.8,0.932,0.00%,0,117,0,Non-Diabetic,0,0
+40 - 49,Normal,Obesity Class I,Moderate Risk,Prediabetes,44,31.2,0.343,100.00%,76,115,0,Diabetic,5,0
+40 - 49,Normal,Obesity Class II,High Risk,Diabetes,44,39.9,0.569,100.00%,0,129,0,Diabetic,13,30
+40 - 49,Prehypertension,Obesity Class I,Moderate Risk,Diabetes,44,34.4,0.402,100.00%,80,132,0,Diabetic,3,0
+40 - 49,Hypertension Stage 2,Obesity Class III,Moderate Risk,Diabetes,44,42.3,0.257,100.00%,114,158,0,Diabetic,13,0
+40 - 49,Normal,Overweight,High Risk,Prediabetes,45,27.6,0.512,0.00%,78,122,0,Non-Diabetic,10,31
+40 - 49,Normal,Obesity Class II,Low Risk,Prediabetes,45,36.6,0.178,0.00%,72,106,0,Non-Diabetic,13,54
+40 - 49,Normal,Obesity Class II,Moderate Risk,Prediabetes,45,37.2,0.204,0.00%,74,102,105,Non-Diabetic,7,40
+40 - 49,Hypertension Stage 2,Obesity Class I,Moderate Risk,Diabetes,45,32.8,0.234,100.00%,102,133,140,Diabetic,1,28
+40 - 49,Hypertension Stage 2,Obesity Class III,Moderate Risk,Prediabetes,45,43.3,0.239,100.00%,100,105,0,Diabetic,8,36
+40 - 49,Normal,Overweight,Extreme Risk,Prediabetes,45,28.9,1.144,100.00%,70,125,122,Diabetic,4,18
+40 - 49,Normal,Obesity Class I,High Risk,Diabetes,45,34.2,0.652,100.00%,70,130,0,Diabetic,9,0
+40 - 49,Prehypertension,Obesity Class III,Extreme Risk,Prediabetes,45,46.8,0.925,100.00%,84,111,0,Diabetic,11,40
+40 - 49,Hypertension Stage 1,Obesity Class III,Extreme Risk,Diabetes,45,40.8,1.461,0.00%,94,183,0,Non-Diabetic,6,0
+40 - 49,Prehypertension,Obesity Class I,Low Risk,Diabetes,45,34.6,0.144,0.00%,80,128,0,Non-Diabetic,5,0
+40 - 49,Normal,Obesity Class I,Low Risk,Diabetes,45,30.9,0.164,0.00%,78,154,100,Non-Diabetic,9,30
+40 - 49,Normal,Obesity Class I,Low Risk,Diabetes,45,32.8,0.148,100.00%,78,164,0,Diabetic,9,0
+40 - 49,Hypertension Stage 1,Obesity Class I,Moderate Risk,Prediabetes,45,32.8,0.265,0.00%,94,111,0,Non-Diabetic,1,0
+40 - 49,Hypertension Stage 1,Obesity Class I,High Risk,Diabetes,45,32.7,0.734,100.00%,94,140,0,Diabetic,9,0
+40 - 49,Normal,Obesity Class I,Moderate Risk,Diabetes,45,32.4,0.443,100.00%,78,154,0,Diabetic,8,32
+40 - 49,Normal,Obesity Class I,High Risk,Prediabetes,46,32.9,0.665,100.00%,76,102,0,Diabetic,9,37
+40 - 49,Normal,Obesity Class I,High Risk,Diabetes,46,34,0.543,100.00%,62,155,495,Diabetic,8,26
+40 - 49,Prehypertension,Obesity Class III,Moderate Risk,Diabetes,46,46.2,0.238,100.00%,80,134,370,Diabetic,6,37
+40 - 49,Normal,Obesity Class II,Moderate Risk,Prediabetes,46,36.6,0.412,100.00%,78,100,184,Diabetic,14,25
+40 - 49,Normal,Normal Weight,Extreme Risk,Prediabetes,46,23.1,1.476,0.00%,72,118,0,Non-Diabetic,8,19
+40 - 49,Prehypertension,Obesity Class I,Moderate Risk,Hypoglycemia,46,34.4,0.243,0.00%,82,61,0,Non-Diabetic,3,28
+40 - 49,Normal,Overweight,Moderate Risk,Prediabetes,46,28.9,0.376,100.00%,72,115,0,Diabetic,4,0
+40 - 49,Normal,Overweight,Moderate Risk,Normal,46,29.7,0.297,100.00%,72,84,0,Diabetic,12,31
+40 - 49,Hypertension Stage 1,Overweight,Low Risk,Prediabetes,46,29.6,0.197,0.00%,90,105,0,Non-Diabetic,0,0
+40 - 49,Normal,Obesity Class I,Low Risk,Normal,46,32,0.085,0.00%,62,92,126,Non-Diabetic,6,32
+40 - 49,Normal,Obesity Class III,Low Risk,Hypoglycemia,46,45.3,0.194,0.00%,76,67,0,Non-Diabetic,0,0
+40 - 49,Prehypertension,Obesity Class III,Moderate Risk,Diabetes,46,46.1,0.335,100.00%,82,144,180,Diabetic,1,46
+40 - 49,Prehypertension,Obesity Class I,Moderate Risk,Prediabetes,46,30,0.488,0.00%,84,100,105,Non-Diabetic,12,33
+40 - 49,Normal,Obesity Class III,Extreme Risk,Diabetes,47,40.9,0.817,100.00%,72,163,114,Diabetic,17,41
+40 - 49,Normal,Obesity Class III,Low Risk,Diabetes,47,45,0.19,0.00%,78,143,0,Non-Diabetic,5,0
+40 - 49,Prehypertension,Obesity Class I,Low Risk,Diabetes,47,30.4,0.165,100.00%,86,161,0,Diabetic,7,0
+40 - 49,Normal,Overweight,Moderate Risk,Diabetes,47,25.5,0.326,100.00%,68,161,132,Diabetic,10,23
+40 - 49,Hypertension Stage 2,Obesity Class II,Moderate Risk,Hypoglycemia,47,35.5,0.285,0.00%,106,68,49,Non-Diabetic,10,23
+40 - 49,Normal,Obesity Class I,Moderate Risk,Diabetes,47,30.1,0.349,100.00%,60,126,0,Diabetic,1,0
+40 - 49,Hypertension Stage 1,Normal Weight,Moderate Risk,Prediabetes,48,22.7,0.235,0.00%,92,106,0,Non-Diabetic,7,18
+40 - 49,Normal,Obesity Class II,Moderate Risk,Normal,48,35.3,0.378,0.00%,74,88,54,Non-Diabetic,12,40
+40 - 49,Normal,Normal Weight,High Risk,Prediabetes,48,20.8,0.733,0.00%,72,120,56,Non-Diabetic,9,22
+40 - 49,Normal,Overweight,Low Risk,Prediabetes,48,28.8,0.153,0.00%,74,104,0,Non-Diabetic,5,0
+40 - 49,Prehypertension,Obesity Class III,High Risk,Prediabetes,48,42.3,0.785,100.00%,80,120,150,Diabetic,11,37
+40 - 49,Prehypertension,Obesity Class I,Extreme Risk,Diabetes,49,30,1.213,100.00%,85,184,0,Diabetic,9,15
+40 - 49,Prehypertension,Obesity Class II,Moderate Risk,Diabetes,49,38.5,0.349,0.00%,88,126,108,Non-Diabetic,8,36
+40 - 49,Prehypertension,Obesity Class I,Moderate Risk,Diabetes,49,30.4,0.302,100.00%,88,165,0,Diabetic,9,0
+40 - 49,Normal,Obesity Class I,High Risk,Diabetes,49,33.6,0.631,0.00%,68,165,168,Non-Diabetic,6,26
+40 - 49,Normal,Overweight,High Risk,Prediabetes,49,27.6,0.565,100.00%,78,125,0,Diabetic,6,31
+50 - 59,Normal,Obesity Class I,High Risk,Diabetes,50,33.6,0.627,100.00%,72,148,0,Diabetic,6,35
+50 - 59,Prehypertension,Obesity Class II,Moderate Risk,Normal,50,35.4,0.388,0.00%,84,99,0,Non-Diabetic,8,0
+50 - 59,Hypertension Stage 1,Overweight,Moderate Risk,Diabetes,50,29.9,0.21,0.00%,90,136,0,Non-Diabetic,7,0
+50 - 59,Prehypertension,Obesity Class I,Moderate Risk,Diabetes,50,32.8,0.341,0.00%,82,164,67,Non-Diabetic,1,43
+50 - 59,Normal,Obesity Class II,High Risk,Diabetes,50,36.1,0.557,100.00%,74,138,144,Diabetic,11,26
+50 - 59,Prehypertension,Overweight,Extreme Risk,Prediabetes,50,28.2,1.282,100.00%,82,112,0,Diabetic,9,24
+50 - 59,Prehypertension,Overweight,Low Risk,Diabetes,50,29.5,0.178,100.00%,80,147,0,Diabetic,6,0
+50 - 59,Normal,Normal Weight,Low Risk,Diabetes,50,24.3,0.178,100.00%,62,162,0,Diabetic,6,0
+50 - 59,Normal,Overweight,High Risk,Diabetes,51,25.8,0.587,100.00%,72,166,175,Diabetic,5,19
+50 - 59,Hypertension Stage 1,Obesity Class II,Moderate Risk,Diabetes,51,36.6,0.254,100.00%,94,143,146,Diabetic,11,33
+50 - 59,Prehypertension,Obesity Class II,High Risk,Diabetes,51,35.9,0.586,100.00%,84,181,192,Diabetic,7,21
+50 - 59,Normal,Obesity Class I,Extreme Risk,Diabetes,51,33.3,1.353,100.00%,76,155,150,Diabetic,11,28
+50 - 59,Normal,Overweight,High Risk,Diabetes,51,26,0.647,0.00%,74,136,135,Non-Diabetic,7,26
+50 - 59,Prehypertension,Obesity Class II,Extreme Risk,Diabetes,51,37.6,1.001,100.00%,84,148,237,Diabetic,10,48
+50 - 59,Prehypertension,Obesity Class II,Moderate Risk,Prediabetes,51,37.6,0.304,0.00%,86,125,0,Non-Diabetic,7,0
+50 - 59,Hypertension Stage 2,Obesity Class II,Low Risk,Diabetes,51,39,0.19,0.00%,106,127,0,Non-Diabetic,11,0
+50 - 59,Hypertension Stage 2,Obesity Class II,Low Risk,Diabetes,52,37.7,0.151,100.00%,104,162,0,Diabetic,5,0
+50 - 59,Normal,Obesity Class I,Moderate Risk,Prediabetes,52,34.2,0.251,0.00%,70,106,0,Non-Diabetic,13,0
+50 - 59,Prehypertension,Overweight,Moderate Risk,Prediabetes,52,27,0.259,100.00%,80,108,0,Diabetic,2,0
+50 - 59,Normal,Overweight,High Risk,Prediabetes,52,28.7,0.687,100.00%,76,124,600,Diabetic,8,24
+50 - 59,Prehypertension,Obesity Class I,Extreme Risk,Diabetes,52,33.3,1.154,100.00%,86,176,156,Diabetic,3,27
+50 - 59,Prehypertension,Obesity Class II,Extreme Risk,Diabetes,52,35,0.905,100.00%,88,168,0,Diabetic,1,29
+50 - 59,Normal,Obesity Class II,Moderate Risk,Normal,52,35.6,0.378,100.00%,76,97,0,Diabetic,5,27
+50 - 59,Normal,Obesity Class II,Moderate Risk,Prediabetes,52,36.3,0.258,100.00%,72,123,0,Diabetic,0,0
+50 - 59,Normal,Obesity Class I,Low Risk,Diabetes,53,30.5,0.158,100.00%,70,197,543,Diabetic,2,45
+50 - 59,Prehypertension,Obesity Class I,High Risk,Diabetes,53,30.3,0.771,100.00%,88,145,165,Diabetic,9,34
+50 - 59,Normal,Obesity Class III,Extreme Risk,Diabetes,53,43.6,1.034,100.00%,76,187,207,Diabetic,5,27
+50 - 59,Prehypertension,Normal Weight,Moderate Risk,Diabetes,53,24.8,0.23,100.00%,86,156,0,Diabetic,9,0
+50 - 59,Normal,Normal Weight,High Risk,Prediabetes,53,23.3,0.56,0.00%,75,105,0,Non-Diabetic,2,0
+50 - 59,Hypertension Stage 1,Unknown,Moderate Risk,Prediabetes,54,0,0.232,100.00%,96,125,0,Diabetic,8,0
+50 - 59,Hypertension Stage 2,Obesity Class III,High Risk,Diabetes,54,45.4,0.721,100.00%,110,171,240,Diabetic,9,24
+50 - 59,Hypertension Stage 1,Obesity Class III,Extreme Risk,Prediabetes,54,42.7,0.845,0.00%,92,109,0,Non-Diabetic,2,0
+50 - 59,Normal,Obesity Class I,Low Risk,Prediabetes,54,33.8,0.121,100.00%,76,125,0,Diabetic,6,0
+50 - 59,Normal,Obesity Class II,High Risk,Diabetes,54,35.2,0.692,100.00%,78,150,126,Diabetic,7,29
+50 - 59,Prehypertension,Overweight,Low Risk,Diabetes,54,27.7,0.182,0.00%,84,162,0,Non-Diabetic,10,0
+50 - 59,Normal,Normal Weight,Moderate Risk,Diabetes,55,21.1,0.268,0.00%,78,128,0,Non-Diabetic,3,0
+50 - 59,Normal,Obesity Class II,Moderate Risk,Prediabetes,55,37.7,0.324,0.00%,72,103,190,Non-Diabetic,6,32
+50 - 59,Normal,Normal Weight,Low Risk,Diabetes,55,24.2,0.151,0.00%,61,137,0,Non-Diabetic,6,0
+50 - 59,Normal,Overweight,Low Risk,Diabetes,55,25.1,0.163,100.00%,70,195,145,Diabetic,7,33
+50 - 59,Normal,Obesity Class II,Extreme Risk,Prediabetes,56,37.1,1.39,100.00%,72,111,207,Diabetic,4,47
+50 - 59,Prehypertension,Obesity Class I,Extreme Risk,Normal,56,34.9,0.825,100.00%,85,90,0,Diabetic,10,32
+50 - 59,Normal,Normal Weight,High Risk,Normal,56,23.1,0.595,0.00%,72,94,0,Non-Diabetic,10,18
+50 - 59,Prehypertension,Overweight,Extreme Risk,Diabetes,57,27.1,1.441,0.00%,80,139,0,Non-Diabetic,10,0
+50 - 59,Prehypertension,Normal Weight,Moderate Risk,Diabetes,57,22.2,0.245,0.00%,82,145,110,Non-Diabetic,13,19
+50 - 59,Normal,Obesity Class II,High Risk,Diabetes,57,37.5,0.605,100.00%,76,196,280,Diabetic,8,29
+50 - 59,Normal,Normal Weight,High Risk,Prediabetes,57,24.9,0.744,0.00%,74,114,0,Non-Diabetic,5,0
+50 - 59,Normal,Obesity Class II,Moderate Risk,Normal,57,36.8,0.485,0.00%,72,95,0,Non-Diabetic,8,0
+50 - 59,Hypertension Stage 1,Obesity Class I,Moderate Risk,Diabetes,58,33.7,0.467,100.00%,90,176,300,Diabetic,8,34
+50 - 59,Normal,Normal Weight,Extreme Risk,Prediabetes,58,23.6,0.84,0.00%,72,112,0,Non-Diabetic,8,0
+50 - 59,Prehypertension,Obesity Class II,High Risk,Diabetes,58,39.2,0.528,100.00%,82,140,325,Diabetic,12,43
+50 - 59,Prehypertension,Obesity Class I,Moderate Risk,Diabetes,58,32,0.452,100.00%,82,144,285,Diabetic,5,26
+50 - 59,Normal,Obesity Class III,Extreme Risk,Diabetes,58,46.5,1.159,0.00%,78,173,265,Non-Diabetic,0,32
+50 - 59,Normal,Normal Weight,Moderate Risk,Normal,58,24.2,0.2,0.00%,68,91,0,Non-Diabetic,9,0
+50 - 59,Normal,Overweight,Moderate Risk,Prediabetes,58,27.8,0.237,0.00%,76,110,0,Non-Diabetic,8,0
+50 - 59,Normal,Obesity Class I,Moderate Risk,Diabetes,59,30.1,0.398,100.00%,60,189,846,Diabetic,1,23
+50 - 59,Normal,Normal Weight,Low Risk,Diabetes,59,23.5,0.129,100.00%,78,194,0,Diabetic,6,0
+50 - 59,Prehypertension,Overweight,Moderate Risk,Diabetes,59,27.3,0.231,0.00%,84,137,0,Non-Diabetic,0,27
+60+,Normal,Obesity Class II,High Risk,Prediabetes,60,36,0.546,0.00%,75,109,0,Non-Diabetic,5,26
+60+,Normal,Normal Weight,Moderate Risk,Diabetes,60,23.8,0.277,100.00%,72,134,0,Diabetic,4,0
+60+,Normal,Obesity Class I,High Risk,Diabetes,60,30.1,0.615,100.00%,68,181,495,Diabetic,8,36
+60+,Hypertension Stage 1,Obesity Class I,Low Risk,Diabetes,60,34.2,0.164,0.00%,95,179,0,Non-Diabetic,7,31
+60+,Hypertension Stage 1,Normal Weight,High Risk,Diabetes,60,19.6,0.582,0.00%,90,129,326,Non-Diabetic,6,7
+60+,Hypertension Stage 1,Obesity Class I,High Risk,Diabetes,61,31.2,0.539,100.00%,92,146,0,Diabetic,4,0
+60+,Normal,Overweight,High Risk,Diabetes,61,28.8,0.687,0.00%,60,142,190,Non-Diabetic,7,33
+60+,Prehypertension,Overweight,High Risk,Prediabetes,62,27.9,0.741,100.00%,84,105,0,Diabetic,0,0
+60+,Normal,Overweight,High Risk,Diabetes,62,26.7,0.687,0.00%,54,135,0,Non-Diabetic,1,0
+60+,Normal,Obesity Class I,High Risk,Diabetes,62,34.7,0.575,100.00%,70,197,0,Diabetic,2,99
+60+,Normal,Overweight,Moderate Risk,Prediabetes,62,26.5,0.259,0.00%,78,121,0,Non-Diabetic,12,17
+60+,Prehypertension,Obesity Class I,Moderate Risk,Diabetes,63,32.4,0.2,0.00%,80,142,0,Non-Diabetic,3,15
+60+,Normal,Overweight,Moderate Risk,Diabetes,63,29.8,0.207,0.00%,70,158,0,Non-Diabetic,5,0
+60+,Prehypertension,Overweight,Moderate Risk,Diabetes,63,28,0.419,0.00%,86,132,0,Non-Diabetic,4,31
+60+,Normal,Obesity Class I,Low Risk,Prediabetes,63,32.9,0.171,0.00%,76,101,180,Non-Diabetic,10,48
+60+,Normal,Overweight,Moderate Risk,Prediabetes,64,25,0.409,0.00%,78,120,0,Non-Diabetic,8,0
+60+,Normal,Obesity Class I,Moderate Risk,Diabetes,65,33.7,0.218,0.00%,78,147,0,Non-Diabetic,5,0
+60+,Normal,Normal Weight,Moderate Risk,Diabetes,65,21.9,0.254,0.00%,50,161,0,Non-Diabetic,0,0
+60+,Hypertension Stage 2,Obesity Class II,Moderate Risk,Prediabetes,65,39.2,0.305,0.00%,108,103,0,Non-Diabetic,5,37
+60+,Hypertension Stage 1,Obesity Class I,Extreme Risk,Diabetes,66,31.6,0.805,100.00%,90,158,0,Diabetic,2,0
+60+,Normal,Overweight,Moderate Risk,Diabetes,66,26.6,0.304,0.00%,74,166,0,Non-Diabetic,6,0
+60+,Prehypertension,Overweight,Moderate Risk,Prediabetes,66,27.8,0.247,0.00%,88,114,0,Non-Diabetic,6,0
+60+,Hypertension Stage 1,Obesity Class II,Moderate Risk,Diabetes,66,35.5,0.278,100.00%,92,190,0,Diabetic,6,0
+60+,Normal,Obesity Class II,High Risk,Diabetes,67,38.5,0.52,100.00%,78,146,0,Diabetic,4,0
+60+,Prehypertension,Overweight,High Risk,Diabetes,67,26.1,0.551,0.00%,80,194,0,Non-Diabetic,8,0
+60+,Normal,Normal Weight,High Risk,Hypoglycemia,67,21.7,0.735,0.00%,60,57,0,Non-Diabetic,0,0
+60+,Prehypertension,Obesity Class II,High Risk,Normal,68,35.6,0.587,0.00%,82,91,0,Non-Diabetic,8,0
+60+,Prehypertension,Overweight,Low Risk,Diabetes,69,26.8,0.186,0.00%,80,132,0,Non-Diabetic,5,0
+60+,Prehypertension,Unknown,High Risk,Diabetes,69,0,0.64,0.00%,82,136,0,Non-Diabetic,5,0
+60+,Prehypertension,Obesity Class I,Moderate Risk,Diabetes,70,32.5,0.235,100.00%,82,145,0,Diabetic,4,18
+60+,Normal,Normal Weight,Extreme Risk,Prediabetes,72,19.6,0.832,0.00%,0,119,0,Non-Diabetic,2,0
+60+,Normal,Overweight,Moderate Risk,Diabetes,81,25.9,0.46,0.00%,74,134,60,Non-Diabetic,9,33
